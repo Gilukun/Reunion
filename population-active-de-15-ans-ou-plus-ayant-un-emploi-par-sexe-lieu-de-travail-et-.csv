@@ -1,0 +1,580 @@
+Code INSEE;Commune;Nombre de personnes;Lieu de travail;Sexe;Mode de transport;Code EPCI;Nom de l'EPCI;Nom du département;Nom de la région
+97419;Sainte-Rose;208;Autre commune du département de résidence;Femmes;Voiture, camion, fourgonnette;249740093;CA Intercommunale de la Réunion Est (Cirest);LA REUNION;LA REUNION
+97417;Saint-Philippe;348;Autre commune du département de résidence;Hommes;Voiture, camion, fourgonnette;249740085;CA du Sud;LA REUNION;LA REUNION
+97422;Le Tampon;518;Commune de résidence;Femmes;Pas de transport;249740085;CA du Sud;LA REUNION;LA REUNION
+97415;Saint-Paul;618;Autre commune du département de résidence;Hommes;Deux roues;249740101;CA Territoire de la Côte Ouest (Tco);LA REUNION;LA REUNION
+97403;Entre-Deux;11;Autre commune du département de résidence;Femmes;Transports en commun;249740085;CA du Sud;LA REUNION;LA REUNION
+97418;Sainte-Marie;28;Autre commune du département de résidence;Femmes;Deux roues;249740119;CA Intercommunale du Nord de la Réunion (Cinor);LA REUNION;LA REUNION
+97405;Petite-Île;27;Commune de résidence;Femmes;Transports en commun;249740077;CA Civis (Communauté Intercommunale des Villes Solidaires);LA REUNION;LA REUNION
+97418;Sainte-Marie;2;Autre (Dom, Com, étranger);Hommes;Voiture, camion, fourgonnette;249740119;CA Intercommunale du Nord de la Réunion (Cinor);LA REUNION;LA REUNION
+97410;Saint-Benoît;131;Commune de résidence;Hommes;Transports en commun;249740093;CA Intercommunale de la Réunion Est (Cirest);LA REUNION;LA REUNION
+97410;Saint-Benoît;3;Autre (Dom, Com, étranger);Hommes;Pas de transport;249740093;CA Intercommunale de la Réunion Est (Cirest);LA REUNION;LA REUNION
+97412;Saint-Joseph;135;Commune de résidence;Femmes;Transports en commun;249740085;CA du Sud;LA REUNION;LA REUNION
+97409;Saint-André;179;Autre commune du département de résidence;Hommes;Deux roues;249740093;CA Intercommunale de la Réunion Est (Cirest);LA REUNION;LA REUNION
+97424;Cilaos;45;Autre commune du département de résidence;Femmes;Voiture, camion, fourgonnette;249740077;CA Civis (Communauté Intercommunale des Villes Solidaires);LA REUNION;LA REUNION
+97404;L'Étang-Salé;13;Autre commune du département de résidence;Femmes;Deux roues;249740077;CA Civis (Communauté Intercommunale des Villes Solidaires);LA REUNION;LA REUNION
+97416;Saint-Pierre;7264;Commune de résidence;Hommes;Voiture, camion, fourgonnette;249740077;CA Civis (Communauté Intercommunale des Villes Solidaires);LA REUNION;LA REUNION
+97413;Saint-Leu;113;Autre commune du département de résidence;Hommes;Transports en commun;249740101;CA Territoire de la Côte Ouest (Tco);LA REUNION;LA REUNION
+97412;Saint-Joseph;1093;Autre commune du département de résidence;Femmes;Voiture, camion, fourgonnette;249740085;CA du Sud;LA REUNION;LA REUNION
+97406;La Plaine-des-Palmistes;285;Commune de résidence;Hommes;Voiture, camion, fourgonnette;249740093;CA Intercommunale de la Réunion Est (Cirest);LA REUNION;LA REUNION
+97403;Entre-Deux;166;Commune de résidence;Femmes;Marche à pied;249740085;CA du Sud;LA REUNION;LA REUNION
+97413;Saint-Leu;15;Autre commune du département de résidence;Femmes;Deux roues;249740101;CA Territoire de la Côte Ouest (Tco);LA REUNION;LA REUNION
+97409;Saint-André;15;Autre région en France métropolitaine;Hommes;Voiture, camion, fourgonnette;249740093;CA Intercommunale de la Réunion Est (Cirest);LA REUNION;LA REUNION
+97416;Saint-Pierre;38;Autre commune du département de résidence;Femmes;Marche à pied;249740077;CA Civis (Communauté Intercommunale des Villes Solidaires);LA REUNION;LA REUNION
+97424;Cilaos;144;Autre commune du département de résidence;Hommes;Voiture, camion, fourgonnette;249740077;CA Civis (Communauté Intercommunale des Villes Solidaires);LA REUNION;LA REUNION
+97421;Salazie;14;Autre commune du département de résidence;Hommes;Transports en commun;249740093;CA Intercommunale de la Réunion Est (Cirest);LA REUNION;LA REUNION
+97420;Sainte-Suzanne;101;Commune de résidence;Hommes;Pas de transport;249740119;CA Intercommunale du Nord de la Réunion (Cinor);LA REUNION;LA REUNION
+97416;Saint-Pierre;879;Commune de résidence;Hommes;Deux roues;249740077;CA Civis (Communauté Intercommunale des Villes Solidaires);LA REUNION;LA REUNION
+97423;Les Trois-Bassins;5;Autre région en France métropolitaine;Hommes;Voiture, camion, fourgonnette;249740101;CA Territoire de la Côte Ouest (Tco);LA REUNION;LA REUNION
+97418;Sainte-Marie;1988;Commune de résidence;Hommes;Voiture, camion, fourgonnette;249740119;CA Intercommunale du Nord de la Réunion (Cinor);LA REUNION;LA REUNION
+97401;Les Avirons;118;Commune de résidence;Femmes;Pas de transport;249740077;CA Civis (Communauté Intercommunale des Villes Solidaires);LA REUNION;LA REUNION
+97420;Sainte-Suzanne;2456;Autre commune du département de résidence;Hommes;Voiture, camion, fourgonnette;249740119;CA Intercommunale du Nord de la Réunion (Cinor);LA REUNION;LA REUNION
+97403;Entre-Deux;16;Commune de résidence;Hommes;Pas de transport;249740085;CA du Sud;LA REUNION;LA REUNION
+97422;Le Tampon;5;Autre région en France métropolitaine;Femmes;Pas de transport;249740085;CA du Sud;LA REUNION;LA REUNION
+97415;Saint-Paul;10;Autre région en France métropolitaine;Femmes;Transports en commun;249740101;CA Territoire de la Côte Ouest (Tco);LA REUNION;LA REUNION
+97413;Saint-Leu;2;Autre (Dom, Com, étranger);Femmes;Deux roues;249740101;CA Territoire de la Côte Ouest (Tco);LA REUNION;LA REUNION
+97415;Saint-Paul;717;Commune de résidence;Hommes;Deux roues;249740101;CA Territoire de la Côte Ouest (Tco);LA REUNION;LA REUNION
+97404;L'Étang-Salé;3;Autre (Dom, Com, étranger);Femmes;Voiture, camion, fourgonnette;249740077;CA Civis (Communauté Intercommunale des Villes Solidaires);LA REUNION;LA REUNION
+97411;Saint-Denis;13;Autre région en France métropolitaine;Hommes;Transports en commun;249740119;CA Intercommunale du Nord de la Réunion (Cinor);LA REUNION;LA REUNION
+97407;Le Port;618;Commune de résidence;Femmes;Marche à pied;249740101;CA Territoire de la Côte Ouest (Tco);LA REUNION;LA REUNION
+97418;Sainte-Marie;6;Autre région en France métropolitaine;Hommes;Pas de transport;249740119;CA Intercommunale du Nord de la Réunion (Cinor);LA REUNION;LA REUNION
+97422;Le Tampon;35;Autre région en France métropolitaine;Hommes;Voiture, camion, fourgonnette;249740085;CA du Sud;LA REUNION;LA REUNION
+97404;L'Étang-Salé;3;Autre région en France métropolitaine;Femmes;Voiture, camion, fourgonnette;249740077;CA Civis (Communauté Intercommunale des Villes Solidaires);LA REUNION;LA REUNION
+97408;La Possession;63;Commune de résidence;Hommes;Transports en commun;249740101;CA Territoire de la Côte Ouest (Tco);LA REUNION;LA REUNION
+97416;Saint-Pierre;1068;Commune de résidence;Hommes;Marche à pied;249740077;CA Civis (Communauté Intercommunale des Villes Solidaires);LA REUNION;LA REUNION
+97417;Saint-Philippe;144;Commune de résidence;Hommes;Marche à pied;249740085;CA du Sud;LA REUNION;LA REUNION
+97412;Saint-Joseph;8;Autre commune du département de résidence;Hommes;Pas de transport;249740085;CA du Sud;LA REUNION;LA REUNION
+97411;Saint-Denis;3228;Autre commune du département de résidence;Femmes;Voiture, camion, fourgonnette;249740119;CA Intercommunale du Nord de la Réunion (Cinor);LA REUNION;LA REUNION
+97408;La Possession;60;Autre commune du département de résidence;Hommes;Marche à pied;249740101;CA Territoire de la Côte Ouest (Tco);LA REUNION;LA REUNION
+97411;Saint-Denis;14239;Commune de résidence;Femmes;Voiture, camion, fourgonnette;249740119;CA Intercommunale du Nord de la Réunion (Cinor);LA REUNION;LA REUNION
+97411;Saint-Denis;1753;Commune de résidence;Hommes;Deux roues;249740119;CA Intercommunale du Nord de la Réunion (Cinor);LA REUNION;LA REUNION
+97410;Saint-Benoît;399;Commune de résidence;Hommes;Marche à pied;249740093;CA Intercommunale de la Réunion Est (Cirest);LA REUNION;LA REUNION
+97402;Bras-Panon;53;Autre commune du département de résidence;Femmes;Transports en commun;249740093;CA Intercommunale de la Réunion Est (Cirest);LA REUNION;LA REUNION
+97412;Saint-Joseph;13;Autre commune du département de résidence;Femmes;Deux roues;249740085;CA du Sud;LA REUNION;LA REUNION
+97403;Entre-Deux;36;Commune de résidence;Hommes;Deux roues;249740085;CA du Sud;LA REUNION;LA REUNION
+97408;La Possession;132;Autre commune du département de résidence;Femmes;Transports en commun;249740101;CA Territoire de la Côte Ouest (Tco);LA REUNION;LA REUNION
+97418;Sainte-Marie;1571;Commune de résidence;Femmes;Voiture, camion, fourgonnette;249740119;CA Intercommunale du Nord de la Réunion (Cinor);LA REUNION;LA REUNION
+97419;Sainte-Rose;437;Commune de résidence;Hommes;Voiture, camion, fourgonnette;249740093;CA Intercommunale de la Réunion Est (Cirest);LA REUNION;LA REUNION
+97401;Les Avirons;21;Commune de résidence;Hommes;Deux roues;249740077;CA Civis (Communauté Intercommunale des Villes Solidaires);LA REUNION;LA REUNION
+97418;Sainte-Marie;140;Autre commune du département de résidence;Hommes;Transports en commun;249740119;CA Intercommunale du Nord de la Réunion (Cinor);LA REUNION;LA REUNION
+97420;Sainte-Suzanne;2;Autre commune du département de résidence;Femmes;Marche à pied;249740119;CA Intercommunale du Nord de la Réunion (Cinor);LA REUNION;LA REUNION
+97411;Saint-Denis;25;Autre région en France métropolitaine;Femmes;Transports en commun;249740119;CA Intercommunale du Nord de la Réunion (Cinor);LA REUNION;LA REUNION
+97422;Le Tampon;106;Autre commune du département de résidence;Hommes;Transports en commun;249740085;CA du Sud;LA REUNION;LA REUNION
+97421;Salazie;10;Commune de résidence;Hommes;Deux roues;249740093;CA Intercommunale de la Réunion Est (Cirest);LA REUNION;LA REUNION
+97409;Saint-André;10;Autre région en France métropolitaine;Hommes;Deux roues;249740093;CA Intercommunale de la Réunion Est (Cirest);LA REUNION;LA REUNION
+97414;Saint-Louis;145;Autre commune du département de résidence;Hommes;Transports en commun;249740077;CA Civis (Communauté Intercommunale des Villes Solidaires);LA REUNION;LA REUNION
+97424;Cilaos;5;Autre commune du département de résidence;Femmes;Marche à pied;249740077;CA Civis (Communauté Intercommunale des Villes Solidaires);LA REUNION;LA REUNION
+97411;Saint-Denis;49;Autre commune du département de résidence;Femmes;Marche à pied;249740119;CA Intercommunale du Nord de la Réunion (Cinor);LA REUNION;LA REUNION
+97412;Saint-Joseph;8;Autre région en France métropolitaine;Hommes;Voiture, camion, fourgonnette;249740085;CA du Sud;LA REUNION;LA REUNION
+97406;La Plaine-des-Palmistes;525;Autre commune du département de résidence;Hommes;Voiture, camion, fourgonnette;249740093;CA Intercommunale de la Réunion Est (Cirest);LA REUNION;LA REUNION
+97403;Entre-Deux;20;Commune de résidence;Hommes;Transports en commun;249740085;CA du Sud;LA REUNION;LA REUNION
+97417;Saint-Philippe;199;Commune de résidence;Femmes;Voiture, camion, fourgonnette;249740085;CA du Sud;LA REUNION;LA REUNION
+97410;Saint-Benoît;33;Commune de résidence;Femmes;Deux roues;249740093;CA Intercommunale de la Réunion Est (Cirest);LA REUNION;LA REUNION
+97413;Saint-Leu;422;Commune de résidence;Femmes;Marche à pied;249740101;CA Territoire de la Côte Ouest (Tco);LA REUNION;LA REUNION
+97422;Le Tampon;5;Autre région en France métropolitaine;Hommes;Transports en commun;249740085;CA du Sud;LA REUNION;LA REUNION
+97413;Saint-Leu;15;Commune de résidence;Femmes;Deux roues;249740101;CA Territoire de la Côte Ouest (Tco);LA REUNION;LA REUNION
+97408;La Possession;12;Autre commune du département de résidence;Femmes;Pas de transport;249740101;CA Territoire de la Côte Ouest (Tco);LA REUNION;LA REUNION
+97401;Les Avirons;1157;Autre commune du département de résidence;Hommes;Voiture, camion, fourgonnette;249740077;CA Civis (Communauté Intercommunale des Villes Solidaires);LA REUNION;LA REUNION
+97404;L'Étang-Salé;3;Autre commune du département de résidence;Hommes;Pas de transport;249740077;CA Civis (Communauté Intercommunale des Villes Solidaires);LA REUNION;LA REUNION
+97415;Saint-Paul;1168;Commune de résidence;Femmes;Marche à pied;249740101;CA Territoire de la Côte Ouest (Tco);LA REUNION;LA REUNION
+97424;Cilaos;35;Commune de résidence;Hommes;Pas de transport;249740077;CA Civis (Communauté Intercommunale des Villes Solidaires);LA REUNION;LA REUNION
+97408;La Possession;1495;Commune de résidence;Femmes;Voiture, camion, fourgonnette;249740101;CA Territoire de la Côte Ouest (Tco);LA REUNION;LA REUNION
+97421;Salazie;36;Commune de résidence;Hommes;Pas de transport;249740093;CA Intercommunale de la Réunion Est (Cirest);LA REUNION;LA REUNION
+97404;L'Étang-Salé;10;Commune de résidence;Femmes;Deux roues;249740077;CA Civis (Communauté Intercommunale des Villes Solidaires);LA REUNION;LA REUNION
+97423;Les Trois-Bassins;125;Commune de résidence;Femmes;Marche à pied;249740101;CA Territoire de la Côte Ouest (Tco);LA REUNION;LA REUNION
+97408;La Possession;88;Autre commune du département de résidence;Hommes;Transports en commun;249740101;CA Territoire de la Côte Ouest (Tco);LA REUNION;LA REUNION
+97414;Saint-Louis;211;Commune de résidence;Hommes;Pas de transport;249740077;CA Civis (Communauté Intercommunale des Villes Solidaires);LA REUNION;LA REUNION
+97402;Bras-Panon;370;Commune de résidence;Femmes;Voiture, camion, fourgonnette;249740093;CA Intercommunale de la Réunion Est (Cirest);LA REUNION;LA REUNION
+97416;Saint-Pierre;8;Autre (Dom, Com, étranger);Hommes;Voiture, camion, fourgonnette;249740077;CA Civis (Communauté Intercommunale des Villes Solidaires);LA REUNION;LA REUNION
+97421;Salazie;6;Autre commune du département de résidence;Hommes;Deux roues;249740093;CA Intercommunale de la Réunion Est (Cirest);LA REUNION;LA REUNION
+97419;Sainte-Rose;5;Commune de résidence;Hommes;Transports en commun;249740093;CA Intercommunale de la Réunion Est (Cirest);LA REUNION;LA REUNION
+97409;Saint-André;156;Autre commune du département de résidence;Femmes;Transports en commun;249740093;CA Intercommunale de la Réunion Est (Cirest);LA REUNION;LA REUNION
+97412;Saint-Joseph;3;Autre (Dom, Com, étranger);Hommes;Transports en commun;249740085;CA du Sud;LA REUNION;LA REUNION
+97412;Saint-Joseph;3;Autre commune du département de résidence;Femmes;Marche à pied;249740085;CA du Sud;LA REUNION;LA REUNION
+97422;Le Tampon;246;Commune de résidence;Femmes;Transports en commun;249740085;CA du Sud;LA REUNION;LA REUNION
+97402;Bras-Panon;104;Commune de résidence;Hommes;Deux roues;249740093;CA Intercommunale de la Réunion Est (Cirest);LA REUNION;LA REUNION
+97405;Petite-Île;65;Commune de résidence;Hommes;Marche à pied;249740077;CA Civis (Communauté Intercommunale des Villes Solidaires);LA REUNION;LA REUNION
+97408;La Possession;138;Commune de résidence;Femmes;Transports en commun;249740101;CA Territoire de la Côte Ouest (Tco);LA REUNION;LA REUNION
+97411;Saint-Denis;5;Autre région en France métropolitaine;Hommes;Marche à pied;249740119;CA Intercommunale du Nord de la Réunion (Cinor);LA REUNION;LA REUNION
+97404;L'Étang-Salé;91;Commune de résidence;Femmes;Pas de transport;249740077;CA Civis (Communauté Intercommunale des Villes Solidaires);LA REUNION;LA REUNION
+97404;L'Étang-Salé;197;Commune de résidence;Femmes;Marche à pied;249740077;CA Civis (Communauté Intercommunale des Villes Solidaires);LA REUNION;LA REUNION
+97420;Sainte-Suzanne;88;Autre commune du département de résidence;Hommes;Transports en commun;249740119;CA Intercommunale du Nord de la Réunion (Cinor);LA REUNION;LA REUNION
+97403;Entre-Deux;5;Autre région en France métropolitaine;Hommes;Marche à pied;249740085;CA du Sud;LA REUNION;LA REUNION
+97405;Petite-Île;30;Commune de résidence;Hommes;Pas de transport;249740077;CA Civis (Communauté Intercommunale des Villes Solidaires);LA REUNION;LA REUNION
+97423;Les Trois-Bassins;20;Autre commune du département de résidence;Femmes;Marche à pied;249740101;CA Territoire de la Côte Ouest (Tco);LA REUNION;LA REUNION
+97423;Les Trois-Bassins;10;Autre commune du département de résidence;Hommes;Marche à pied;249740101;CA Territoire de la Côte Ouest (Tco);LA REUNION;LA REUNION
+97422;Le Tampon;23;Autre commune du département de résidence;Femmes;Deux roues;249740085;CA du Sud;LA REUNION;LA REUNION
+97423;Les Trois-Bassins;5;Autre région en France métropolitaine;Femmes;Voiture, camion, fourgonnette;249740101;CA Territoire de la Côte Ouest (Tco);LA REUNION;LA REUNION
+97416;Saint-Pierre;5;Autre région en France métropolitaine;Femmes;Transports en commun;249740077;CA Civis (Communauté Intercommunale des Villes Solidaires);LA REUNION;LA REUNION
+97405;Petite-Île;7;Commune de résidence;Hommes;Transports en commun;249740077;CA Civis (Communauté Intercommunale des Villes Solidaires);LA REUNION;LA REUNION
+97411;Saint-Denis;5;Autre (Dom, Com, étranger);Femmes;Pas de transport;249740119;CA Intercommunale du Nord de la Réunion (Cinor);LA REUNION;LA REUNION
+97419;Sainte-Rose;5;Autre commune du département de résidence;Hommes;Marche à pied;249740093;CA Intercommunale de la Réunion Est (Cirest);LA REUNION;LA REUNION
+97406;La Plaine-des-Palmistes;45;Commune de résidence;Femmes;Pas de transport;249740093;CA Intercommunale de la Réunion Est (Cirest);LA REUNION;LA REUNION
+97402;Bras-Panon;3;Autre commune du département de résidence;Hommes;Marche à pied;249740093;CA Intercommunale de la Réunion Est (Cirest);LA REUNION;LA REUNION
+97404;L'Étang-Salé;18;Commune de résidence;Hommes;Transports en commun;249740077;CA Civis (Communauté Intercommunale des Villes Solidaires);LA REUNION;LA REUNION
+97405;Petite-Île;2;Autre région en France métropolitaine;Hommes;Transports en commun;249740077;CA Civis (Communauté Intercommunale des Villes Solidaires);LA REUNION;LA REUNION
+97408;La Possession;390;Autre commune du département de résidence;Hommes;Deux roues;249740101;CA Territoire de la Côte Ouest (Tco);LA REUNION;LA REUNION
+97416;Saint-Pierre;8;Autre commune du département de résidence;Hommes;Pas de transport;249740077;CA Civis (Communauté Intercommunale des Villes Solidaires);LA REUNION;LA REUNION
+97414;Saint-Louis;40;Autre région en France métropolitaine;Hommes;Voiture, camion, fourgonnette;249740077;CA Civis (Communauté Intercommunale des Villes Solidaires);LA REUNION;LA REUNION
+97421;Salazie;10;Autre commune du département de résidence;Femmes;Marche à pied;249740093;CA Intercommunale de la Réunion Est (Cirest);LA REUNION;LA REUNION
+97410;Saint-Benoît;140;Commune de résidence;Hommes;Deux roues;249740093;CA Intercommunale de la Réunion Est (Cirest);LA REUNION;LA REUNION
+97411;Saint-Denis;58;Autre région en France métropolitaine;Hommes;Voiture, camion, fourgonnette;249740119;CA Intercommunale du Nord de la Réunion (Cinor);LA REUNION;LA REUNION
+97414;Saint-Louis;143;Autre commune du département de résidence;Femmes;Transports en commun;249740077;CA Civis (Communauté Intercommunale des Villes Solidaires);LA REUNION;LA REUNION
+97410;Saint-Benoît;13;Autre commune du département de résidence;Femmes;Pas de transport;249740093;CA Intercommunale de la Réunion Est (Cirest);LA REUNION;LA REUNION
+97410;Saint-Benoît;471;Commune de résidence;Femmes;Marche à pied;249740093;CA Intercommunale de la Réunion Est (Cirest);LA REUNION;LA REUNION
+97415;Saint-Paul;5;Autre région en France métropolitaine;Hommes;Pas de transport;249740101;CA Territoire de la Côte Ouest (Tco);LA REUNION;LA REUNION
+97422;Le Tampon;3;Autre région en France métropolitaine;Femmes;Transports en commun;249740085;CA du Sud;LA REUNION;LA REUNION
+97409;Saint-André;259;Commune de résidence;Femmes;Pas de transport;249740093;CA Intercommunale de la Réunion Est (Cirest);LA REUNION;LA REUNION
+97421;Salazie;325;Commune de résidence;Femmes;Voiture, camion, fourgonnette;249740093;CA Intercommunale de la Réunion Est (Cirest);LA REUNION;LA REUNION
+97413;Saint-Leu;2147;Commune de résidence;Hommes;Voiture, camion, fourgonnette;249740101;CA Territoire de la Côte Ouest (Tco);LA REUNION;LA REUNION
+97401;Les Avirons;51;Autre commune du département de résidence;Hommes;Deux roues;249740077;CA Civis (Communauté Intercommunale des Villes Solidaires);LA REUNION;LA REUNION
+97423;Les Trois-Bassins;165;Commune de résidence;Femmes;Voiture, camion, fourgonnette;249740101;CA Territoire de la Côte Ouest (Tco);LA REUNION;LA REUNION
+97413;Saint-Leu;271;Commune de résidence;Hommes;Marche à pied;249740101;CA Territoire de la Côte Ouest (Tco);LA REUNION;LA REUNION
+97409;Saint-André;8;Autre commune du département de résidence;Femmes;Pas de transport;249740093;CA Intercommunale de la Réunion Est (Cirest);LA REUNION;LA REUNION
+97419;Sainte-Rose;56;Commune de résidence;Hommes;Pas de transport;249740093;CA Intercommunale de la Réunion Est (Cirest);LA REUNION;LA REUNION
+97421;Salazie;167;Commune de résidence;Hommes;Marche à pied;249740093;CA Intercommunale de la Réunion Est (Cirest);LA REUNION;LA REUNION
+97413;Saint-Leu;171;Commune de résidence;Hommes;Deux roues;249740101;CA Territoire de la Côte Ouest (Tco);LA REUNION;LA REUNION
+97420;Sainte-Suzanne;177;Commune de résidence;Hommes;Marche à pied;249740119;CA Intercommunale du Nord de la Réunion (Cinor);LA REUNION;LA REUNION
+97403;Entre-Deux;238;Commune de résidence;Hommes;Voiture, camion, fourgonnette;249740085;CA du Sud;LA REUNION;LA REUNION
+97409;Saint-André;15;Autre région en France métropolitaine;Femmes;Voiture, camion, fourgonnette;249740093;CA Intercommunale de la Réunion Est (Cirest);LA REUNION;LA REUNION
+97410;Saint-Benoît;1363;Autre commune du département de résidence;Femmes;Voiture, camion, fourgonnette;249740093;CA Intercommunale de la Réunion Est (Cirest);LA REUNION;LA REUNION
+97415;Saint-Paul;1018;Commune de résidence;Hommes;Marche à pied;249740101;CA Territoire de la Côte Ouest (Tco);LA REUNION;LA REUNION
+97402;Bras-Panon;491;Commune de résidence;Hommes;Voiture, camion, fourgonnette;249740093;CA Intercommunale de la Réunion Est (Cirest);LA REUNION;LA REUNION
+97417;Saint-Philippe;164;Autre commune du département de résidence;Femmes;Voiture, camion, fourgonnette;249740085;CA du Sud;LA REUNION;LA REUNION
+97408;La Possession;2;Autre région en France métropolitaine;Hommes;Transports en commun;249740101;CA Territoire de la Côte Ouest (Tco);LA REUNION;LA REUNION
+97415;Saint-Paul;676;Commune de résidence;Femmes;Pas de transport;249740101;CA Territoire de la Côte Ouest (Tco);LA REUNION;LA REUNION
+97402;Bras-Panon;81;Commune de résidence;Femmes;Pas de transport;249740093;CA Intercommunale de la Réunion Est (Cirest);LA REUNION;LA REUNION
+97401;Les Avirons;1148;Autre commune du département de résidence;Femmes;Voiture, camion, fourgonnette;249740077;CA Civis (Communauté Intercommunale des Villes Solidaires);LA REUNION;LA REUNION
+97401;Les Avirons;3;Autre commune du département de résidence;Hommes;Marche à pied;249740077;CA Civis (Communauté Intercommunale des Villes Solidaires);LA REUNION;LA REUNION
+97406;La Plaine-des-Palmistes;15;Commune de résidence;Femmes;Transports en commun;249740093;CA Intercommunale de la Réunion Est (Cirest);LA REUNION;LA REUNION
+97408;La Possession;1528;Commune de résidence;Hommes;Voiture, camion, fourgonnette;249740101;CA Territoire de la Côte Ouest (Tco);LA REUNION;LA REUNION
+97416;Saint-Pierre;30;Autre région en France métropolitaine;Femmes;Voiture, camion, fourgonnette;249740077;CA Civis (Communauté Intercommunale des Villes Solidaires);LA REUNION;LA REUNION
+97417;Saint-Philippe;15;Commune de résidence;Femmes;Transports en commun;249740085;CA du Sud;LA REUNION;LA REUNION
+97403;Entre-Deux;10;Commune de résidence;Femmes;Deux roues;249740085;CA du Sud;LA REUNION;LA REUNION
+97409;Saint-André;148;Commune de résidence;Femmes;Transports en commun;249740093;CA Intercommunale de la Réunion Est (Cirest);LA REUNION;LA REUNION
+97401;Les Avirons;8;Autre commune du département de résidence;Femmes;Marche à pied;249740077;CA Civis (Communauté Intercommunale des Villes Solidaires);LA REUNION;LA REUNION
+97403;Entre-Deux;20;Autre commune du département de résidence;Hommes;Transports en commun;249740085;CA du Sud;LA REUNION;LA REUNION
+97423;Les Trois-Bassins;56;Commune de résidence;Hommes;Pas de transport;249740101;CA Territoire de la Côte Ouest (Tco);LA REUNION;LA REUNION
+97417;Saint-Philippe;5;Autre commune du département de résidence;Hommes;Pas de transport;249740085;CA du Sud;LA REUNION;LA REUNION
+97411;Saint-Denis;15;Autre commune du département de résidence;Femmes;Deux roues;249740119;CA Intercommunale du Nord de la Réunion (Cinor);LA REUNION;LA REUNION
+97420;Sainte-Suzanne;58;Commune de résidence;Hommes;Transports en commun;249740119;CA Intercommunale du Nord de la Réunion (Cinor);LA REUNION;LA REUNION
+97419;Sainte-Rose;25;Commune de résidence;Hommes;Deux roues;249740093;CA Intercommunale de la Réunion Est (Cirest);LA REUNION;LA REUNION
+97421;Salazie;5;Autre commune du département de résidence;Femmes;Pas de transport;249740093;CA Intercommunale de la Réunion Est (Cirest);LA REUNION;LA REUNION
+97404;L'Étang-Salé;5;Autre (Dom, Com, étranger);Hommes;Voiture, camion, fourgonnette;249740077;CA Civis (Communauté Intercommunale des Villes Solidaires);LA REUNION;LA REUNION
+97412;Saint-Joseph;1821;Autre commune du département de résidence;Hommes;Voiture, camion, fourgonnette;249740085;CA du Sud;LA REUNION;LA REUNION
+97418;Sainte-Marie;184;Commune de résidence;Hommes;Deux roues;249740119;CA Intercommunale du Nord de la Réunion (Cinor);LA REUNION;LA REUNION
+97415;Saint-Paul;8;Autre (Dom, Com, étranger);Femmes;Voiture, camion, fourgonnette;249740101;CA Territoire de la Côte Ouest (Tco);LA REUNION;LA REUNION
+97405;Petite-Île;672;Commune de résidence;Hommes;Voiture, camion, fourgonnette;249740077;CA Civis (Communauté Intercommunale des Villes Solidaires);LA REUNION;LA REUNION
+97415;Saint-Paul;190;Autre commune du département de résidence;Femmes;Transports en commun;249740101;CA Territoire de la Côte Ouest (Tco);LA REUNION;LA REUNION
+97419;Sainte-Rose;152;Commune de résidence;Femmes;Marche à pied;249740093;CA Intercommunale de la Réunion Est (Cirest);LA REUNION;LA REUNION
+97411;Saint-Denis;5;Autre (Dom, Com, étranger);Femmes;Marche à pied;249740119;CA Intercommunale du Nord de la Réunion (Cinor);LA REUNION;LA REUNION
+97402;Bras-Panon;53;Autre commune du département de résidence;Hommes;Deux roues;249740093;CA Intercommunale de la Réunion Est (Cirest);LA REUNION;LA REUNION
+97406;La Plaine-des-Palmistes;15;Commune de résidence;Hommes;Deux roues;249740093;CA Intercommunale de la Réunion Est (Cirest);LA REUNION;LA REUNION
+97411;Saint-Denis;4757;Autre commune du département de résidence;Hommes;Voiture, camion, fourgonnette;249740119;CA Intercommunale du Nord de la Réunion (Cinor);LA REUNION;LA REUNION
+97403;Entre-Deux;16;Autre région en France métropolitaine;Hommes;Voiture, camion, fourgonnette;249740085;CA du Sud;LA REUNION;LA REUNION
+97411;Saint-Denis;2200;Commune de résidence;Hommes;Marche à pied;249740119;CA Intercommunale du Nord de la Réunion (Cinor);LA REUNION;LA REUNION
+97408;La Possession;2;Autre (Dom, Com, étranger);Hommes;Pas de transport;249740101;CA Territoire de la Côte Ouest (Tco);LA REUNION;LA REUNION
+97421;Salazie;155;Autre commune du département de résidence;Femmes;Voiture, camion, fourgonnette;249740093;CA Intercommunale de la Réunion Est (Cirest);LA REUNION;LA REUNION
+97407;Le Port;10;Autre commune du département de résidence;Hommes;Pas de transport;249740101;CA Territoire de la Côte Ouest (Tco);LA REUNION;LA REUNION
+97401;Les Avirons;454;Commune de résidence;Femmes;Voiture, camion, fourgonnette;249740077;CA Civis (Communauté Intercommunale des Villes Solidaires);LA REUNION;LA REUNION
+97415;Saint-Paul;561;Commune de résidence;Hommes;Transports en commun;249740101;CA Territoire de la Côte Ouest (Tco);LA REUNION;LA REUNION
+97419;Sainte-Rose;56;Commune de résidence;Femmes;Pas de transport;249740093;CA Intercommunale de la Réunion Est (Cirest);LA REUNION;LA REUNION
+97416;Saint-Pierre;5;Autre région en France métropolitaine;Hommes;Deux roues;249740077;CA Civis (Communauté Intercommunale des Villes Solidaires);LA REUNION;LA REUNION
+97407;Le Port;5;Autre région en France métropolitaine;Hommes;Transports en commun;249740101;CA Territoire de la Côte Ouest (Tco);LA REUNION;LA REUNION
+97419;Sainte-Rose;25;Commune de résidence;Femmes;Transports en commun;249740093;CA Intercommunale de la Réunion Est (Cirest);LA REUNION;LA REUNION
+97423;Les Trois-Bassins;86;Commune de résidence;Hommes;Marche à pied;249740101;CA Territoire de la Côte Ouest (Tco);LA REUNION;LA REUNION
+97404;L'Étang-Salé;100;Commune de résidence;Hommes;Pas de transport;249740077;CA Civis (Communauté Intercommunale des Villes Solidaires);LA REUNION;LA REUNION
+97407;Le Port;1882;Commune de résidence;Hommes;Voiture, camion, fourgonnette;249740101;CA Territoire de la Côte Ouest (Tco);LA REUNION;LA REUNION
+97411;Saint-Denis;8;Autre (Dom, Com, étranger);Hommes;Voiture, camion, fourgonnette;249740119;CA Intercommunale du Nord de la Réunion (Cinor);LA REUNION;LA REUNION
+97412;Saint-Joseph;106;Autre commune du département de résidence;Hommes;Deux roues;249740085;CA du Sud;LA REUNION;LA REUNION
+97407;Le Port;3;Autre (Dom, Com, étranger);Femmes;Marche à pied;249740101;CA Territoire de la Côte Ouest (Tco);LA REUNION;LA REUNION
+97420;Sainte-Suzanne;934;Commune de résidence;Hommes;Voiture, camion, fourgonnette;249740119;CA Intercommunale du Nord de la Réunion (Cinor);LA REUNION;LA REUNION
+97404;L'Étang-Salé;631;Commune de résidence;Femmes;Voiture, camion, fourgonnette;249740077;CA Civis (Communauté Intercommunale des Villes Solidaires);LA REUNION;LA REUNION
+97413;Saint-Leu;10;Autre commune du département de résidence;Hommes;Pas de transport;249740101;CA Territoire de la Côte Ouest (Tco);LA REUNION;LA REUNION
+97411;Saint-Denis;1351;Commune de résidence;Hommes;Transports en commun;249740119;CA Intercommunale du Nord de la Réunion (Cinor);LA REUNION;LA REUNION
+97404;L'Étang-Salé;3;Autre région en France métropolitaine;Femmes;Transports en commun;249740077;CA Civis (Communauté Intercommunale des Villes Solidaires);LA REUNION;LA REUNION
+97410;Saint-Benoît;130;Commune de résidence;Femmes;Transports en commun;249740093;CA Intercommunale de la Réunion Est (Cirest);LA REUNION;LA REUNION
+97417;Saint-Philippe;10;Autre commune du département de résidence;Femmes;Pas de transport;249740085;CA du Sud;LA REUNION;LA REUNION
+97423;Les Trois-Bassins;636;Autre commune du département de résidence;Hommes;Voiture, camion, fourgonnette;249740101;CA Territoire de la Côte Ouest (Tco);LA REUNION;LA REUNION
+97408;La Possession;10;Autre région en France métropolitaine;Femmes;Transports en commun;249740101;CA Territoire de la Côte Ouest (Tco);LA REUNION;LA REUNION
+97424;Cilaos;35;Commune de résidence;Femmes;Transports en commun;249740077;CA Civis (Communauté Intercommunale des Villes Solidaires);LA REUNION;LA REUNION
+97418;Sainte-Marie;198;Commune de résidence;Femmes;Transports en commun;249740119;CA Intercommunale du Nord de la Réunion (Cinor);LA REUNION;LA REUNION
+97420;Sainte-Suzanne;184;Autre commune du département de résidence;Femmes;Transports en commun;249740119;CA Intercommunale du Nord de la Réunion (Cinor);LA REUNION;LA REUNION
+97413;Saint-Leu;18;Autre région en France métropolitaine;Femmes;Voiture, camion, fourgonnette;249740101;CA Territoire de la Côte Ouest (Tco);LA REUNION;LA REUNION
+97405;Petite-Île;953;Autre commune du département de résidence;Femmes;Voiture, camion, fourgonnette;249740077;CA Civis (Communauté Intercommunale des Villes Solidaires);LA REUNION;LA REUNION
+97408;La Possession;3;Autre (Dom, Com, étranger);Hommes;Voiture, camion, fourgonnette;249740101;CA Territoire de la Côte Ouest (Tco);LA REUNION;LA REUNION
+97409;Saint-André;3550;Autre commune du département de résidence;Hommes;Voiture, camion, fourgonnette;249740093;CA Intercommunale de la Réunion Est (Cirest);LA REUNION;LA REUNION
+97412;Saint-Joseph;10;Autre région en France métropolitaine;Femmes;Voiture, camion, fourgonnette;249740085;CA du Sud;LA REUNION;LA REUNION
+97415;Saint-Paul;5;Autre région en France métropolitaine;Hommes;Deux roues;249740101;CA Territoire de la Côte Ouest (Tco);LA REUNION;LA REUNION
+97404;L'Étang-Salé;1354;Autre commune du département de résidence;Femmes;Voiture, camion, fourgonnette;249740077;CA Civis (Communauté Intercommunale des Villes Solidaires);LA REUNION;LA REUNION
+97409;Saint-André;138;Autre commune du département de résidence;Hommes;Transports en commun;249740093;CA Intercommunale de la Réunion Est (Cirest);LA REUNION;LA REUNION
+97410;Saint-Benoît;3;Autre région en France métropolitaine;Femmes;Voiture, camion, fourgonnette;249740093;CA Intercommunale de la Réunion Est (Cirest);LA REUNION;LA REUNION
+97410;Saint-Benoît;5;Autre commune du département de résidence;Femmes;Deux roues;249740093;CA Intercommunale de la Réunion Est (Cirest);LA REUNION;LA REUNION
+97416;Saint-Pierre;551;Commune de résidence;Hommes;Transports en commun;249740077;CA Civis (Communauté Intercommunale des Villes Solidaires);LA REUNION;LA REUNION
+97405;Petite-Île;3;Commune de résidence;Femmes;Deux roues;249740077;CA Civis (Communauté Intercommunale des Villes Solidaires);LA REUNION;LA REUNION
+97421;Salazie;22;Commune de résidence;Hommes;Transports en commun;249740093;CA Intercommunale de la Réunion Est (Cirest);LA REUNION;LA REUNION
+97416;Saint-Pierre;5;Autre (Dom, Com, étranger);Hommes;Deux roues;249740077;CA Civis (Communauté Intercommunale des Villes Solidaires);LA REUNION;LA REUNION
+97422;Le Tampon;800;Commune de résidence;Femmes;Marche à pied;249740085;CA du Sud;LA REUNION;LA REUNION
+97423;Les Trois-Bassins;25;Commune de résidence;Hommes;Deux roues;249740101;CA Territoire de la Côte Ouest (Tco);LA REUNION;LA REUNION
+97402;Bras-Panon;1179;Autre commune du département de résidence;Hommes;Voiture, camion, fourgonnette;249740093;CA Intercommunale de la Réunion Est (Cirest);LA REUNION;LA REUNION
+97415;Saint-Paul;20;Autre commune du département de résidence;Femmes;Pas de transport;249740101;CA Territoire de la Côte Ouest (Tco);LA REUNION;LA REUNION
+97422;Le Tampon;8;Autre région en France métropolitaine;Hommes;Marche à pied;249740085;CA du Sud;LA REUNION;LA REUNION
+97411;Saint-Denis;23;Autre région en France métropolitaine;Femmes;Voiture, camion, fourgonnette;249740119;CA Intercommunale du Nord de la Réunion (Cinor);LA REUNION;LA REUNION
+97415;Saint-Paul;463;Commune de résidence;Hommes;Pas de transport;249740101;CA Territoire de la Côte Ouest (Tco);LA REUNION;LA REUNION
+97416;Saint-Pierre;2;Autre (Dom, Com, étranger);Femmes;Marche à pied;249740077;CA Civis (Communauté Intercommunale des Villes Solidaires);LA REUNION;LA REUNION
+97407;Le Port;71;Commune de résidence;Hommes;Transports en commun;249740101;CA Territoire de la Côte Ouest (Tco);LA REUNION;LA REUNION
+97410;Saint-Benoît;20;Autre commune du département de résidence;Femmes;Marche à pied;249740093;CA Intercommunale de la Réunion Est (Cirest);LA REUNION;LA REUNION
+97422;Le Tampon;158;Commune de résidence;Hommes;Transports en commun;249740085;CA du Sud;LA REUNION;LA REUNION
+97422;Le Tampon;3881;Autre commune du département de résidence;Femmes;Voiture, camion, fourgonnette;249740085;CA du Sud;LA REUNION;LA REUNION
+97401;Les Avirons;8;Autre région en France métropolitaine;Femmes;Voiture, camion, fourgonnette;249740077;CA Civis (Communauté Intercommunale des Villes Solidaires);LA REUNION;LA REUNION
+97405;Petite-Île;1086;Autre commune du département de résidence;Hommes;Voiture, camion, fourgonnette;249740077;CA Civis (Communauté Intercommunale des Villes Solidaires);LA REUNION;LA REUNION
+97401;Les Avirons;3;Autre région en France métropolitaine;Hommes;Transports en commun;249740077;CA Civis (Communauté Intercommunale des Villes Solidaires);LA REUNION;LA REUNION
+97421;Salazie;57;Commune de résidence;Femmes;Pas de transport;249740093;CA Intercommunale de la Réunion Est (Cirest);LA REUNION;LA REUNION
+97418;Sainte-Marie;5;Autre région en France métropolitaine;Femmes;Transports en commun;249740119;CA Intercommunale du Nord de la Réunion (Cinor);LA REUNION;LA REUNION
+97409;Saint-André;18;Commune de résidence;Femmes;Deux roues;249740093;CA Intercommunale de la Réunion Est (Cirest);LA REUNION;LA REUNION
+97404;L'Étang-Salé;135;Commune de résidence;Hommes;Marche à pied;249740077;CA Civis (Communauté Intercommunale des Villes Solidaires);LA REUNION;LA REUNION
+97420;Sainte-Suzanne;5;Autre commune du département de résidence;Hommes;Pas de transport;249740119;CA Intercommunale du Nord de la Réunion (Cinor);LA REUNION;LA REUNION
+97401;Les Avirons;5;Autre commune du département de résidence;Femmes;Pas de transport;249740077;CA Civis (Communauté Intercommunale des Villes Solidaires);LA REUNION;LA REUNION
+97408;La Possession;3;Autre région en France métropolitaine;Hommes;Deux roues;249740101;CA Territoire de la Côte Ouest (Tco);LA REUNION;LA REUNION
+97408;La Possession;3505;Autre commune du département de résidence;Femmes;Voiture, camion, fourgonnette;249740101;CA Territoire de la Côte Ouest (Tco);LA REUNION;LA REUNION
+97414;Saint-Louis;283;Commune de résidence;Femmes;Pas de transport;249740077;CA Civis (Communauté Intercommunale des Villes Solidaires);LA REUNION;LA REUNION
+97411;Saint-Denis;61;Autre commune du département de résidence;Hommes;Marche à pied;249740119;CA Intercommunale du Nord de la Réunion (Cinor);LA REUNION;LA REUNION
+97412;Saint-Joseph;10;Autre (Dom, Com, étranger);Hommes;Voiture, camion, fourgonnette;249740085;CA du Sud;LA REUNION;LA REUNION
+97413;Saint-Leu;2;Autre région en France métropolitaine;Hommes;Deux roues;249740101;CA Territoire de la Côte Ouest (Tco);LA REUNION;LA REUNION
+97402;Bras-Panon;3;Autre région en France métropolitaine;Hommes;Voiture, camion, fourgonnette;249740093;CA Intercommunale de la Réunion Est (Cirest);LA REUNION;LA REUNION
+97420;Sainte-Suzanne;114;Commune de résidence;Femmes;Pas de transport;249740119;CA Intercommunale du Nord de la Réunion (Cinor);LA REUNION;LA REUNION
+97413;Saint-Leu;45;Autre région en France métropolitaine;Hommes;Voiture, camion, fourgonnette;249740101;CA Territoire de la Côte Ouest (Tco);LA REUNION;LA REUNION
+97416;Saint-Pierre;8;Autre commune du département de résidence;Femmes;Deux roues;249740077;CA Civis (Communauté Intercommunale des Villes Solidaires);LA REUNION;LA REUNION
+97418;Sainte-Marie;28;Autre région en France métropolitaine;Hommes;Voiture, camion, fourgonnette;249740119;CA Intercommunale du Nord de la Réunion (Cinor);LA REUNION;LA REUNION
+97416;Saint-Pierre;1085;Commune de résidence;Femmes;Marche à pied;249740077;CA Civis (Communauté Intercommunale des Villes Solidaires);LA REUNION;LA REUNION
+97404;L'Étang-Salé;867;Commune de résidence;Hommes;Voiture, camion, fourgonnette;249740077;CA Civis (Communauté Intercommunale des Villes Solidaires);LA REUNION;LA REUNION
+97401;Les Avirons;76;Commune de résidence;Hommes;Marche à pied;249740077;CA Civis (Communauté Intercommunale des Villes Solidaires);LA REUNION;LA REUNION
+97407;Le Port;2;Autre région en France métropolitaine;Femmes;Transports en commun;249740101;CA Territoire de la Côte Ouest (Tco);LA REUNION;LA REUNION
+97417;Saint-Philippe;5;Autre commune du département de résidence;Hommes;Transports en commun;249740085;CA du Sud;LA REUNION;LA REUNION
+97412;Saint-Joseph;40;Autre commune du département de résidence;Femmes;Transports en commun;249740085;CA du Sud;LA REUNION;LA REUNION
+97424;Cilaos;188;Commune de résidence;Femmes;Marche à pied;249740077;CA Civis (Communauté Intercommunale des Villes Solidaires);LA REUNION;LA REUNION
+97402;Bras-Panon;15;Commune de résidence;Femmes;Deux roues;249740093;CA Intercommunale de la Réunion Est (Cirest);LA REUNION;LA REUNION
+97418;Sainte-Marie;160;Commune de résidence;Hommes;Pas de transport;249740119;CA Intercommunale du Nord de la Réunion (Cinor);LA REUNION;LA REUNION
+97402;Bras-Panon;56;Commune de résidence;Hommes;Pas de transport;249740093;CA Intercommunale de la Réunion Est (Cirest);LA REUNION;LA REUNION
+97408;La Possession;125;Commune de résidence;Hommes;Deux roues;249740101;CA Territoire de la Côte Ouest (Tco);LA REUNION;LA REUNION
+97405;Petite-Île;499;Commune de résidence;Femmes;Voiture, camion, fourgonnette;249740077;CA Civis (Communauté Intercommunale des Villes Solidaires);LA REUNION;LA REUNION
+97408;La Possession;333;Commune de résidence;Femmes;Marche à pied;249740101;CA Territoire de la Côte Ouest (Tco);LA REUNION;LA REUNION
+97407;Le Port;135;Commune de résidence;Femmes;Transports en commun;249740101;CA Territoire de la Côte Ouest (Tco);LA REUNION;LA REUNION
+97405;Petite-Île;124;Commune de résidence;Femmes;Marche à pied;249740077;CA Civis (Communauté Intercommunale des Villes Solidaires);LA REUNION;LA REUNION
+97421;Salazie;200;Commune de résidence;Femmes;Marche à pied;249740093;CA Intercommunale de la Réunion Est (Cirest);LA REUNION;LA REUNION
+97419;Sainte-Rose;5;Autre commune du département de résidence;Hommes;Transports en commun;249740093;CA Intercommunale de la Réunion Est (Cirest);LA REUNION;LA REUNION
+97411;Saint-Denis;234;Commune de résidence;Femmes;Deux roues;249740119;CA Intercommunale du Nord de la Réunion (Cinor);LA REUNION;LA REUNION
+97418;Sainte-Marie;258;Autre commune du département de résidence;Femmes;Transports en commun;249740119;CA Intercommunale du Nord de la Réunion (Cinor);LA REUNION;LA REUNION
+97419;Sainte-Rose;15;Autre commune du département de résidence;Femmes;Transports en commun;249740093;CA Intercommunale de la Réunion Est (Cirest);LA REUNION;LA REUNION
+97404;L'Étang-Salé;45;Commune de résidence;Femmes;Transports en commun;249740077;CA Civis (Communauté Intercommunale des Villes Solidaires);LA REUNION;LA REUNION
+97407;Le Port;18;Autre commune du département de résidence;Hommes;Marche à pied;249740101;CA Territoire de la Côte Ouest (Tco);LA REUNION;LA REUNION
+97408;La Possession;13;Autre région en France métropolitaine;Hommes;Voiture, camion, fourgonnette;249740101;CA Territoire de la Côte Ouest (Tco);LA REUNION;LA REUNION
+97413;Saint-Leu;262;Commune de résidence;Femmes;Pas de transport;249740101;CA Territoire de la Côte Ouest (Tco);LA REUNION;LA REUNION
+97406;La Plaine-des-Palmistes;380;Autre commune du département de résidence;Femmes;Voiture, camion, fourgonnette;249740093;CA Intercommunale de la Réunion Est (Cirest);LA REUNION;LA REUNION
+97411;Saint-Denis;3;Autre (Dom, Com, étranger);Hommes;Deux roues;249740119;CA Intercommunale du Nord de la Réunion (Cinor);LA REUNION;LA REUNION
+97409;Saint-André;15;Autre commune du département de résidence;Femmes;Deux roues;249740093;CA Intercommunale de la Réunion Est (Cirest);LA REUNION;LA REUNION
+97420;Sainte-Suzanne;5;Autre région en France métropolitaine;Hommes;Transports en commun;249740119;CA Intercommunale du Nord de la Réunion (Cinor);LA REUNION;LA REUNION
+97418;Sainte-Marie;13;Autre région en France métropolitaine;Femmes;Voiture, camion, fourgonnette;249740119;CA Intercommunale du Nord de la Réunion (Cinor);LA REUNION;LA REUNION
+97405;Petite-Île;2;Autre région en France métropolitaine;Hommes;Voiture, camion, fourgonnette;249740077;CA Civis (Communauté Intercommunale des Villes Solidaires);LA REUNION;LA REUNION
+97412;Saint-Joseph;346;Commune de résidence;Hommes;Marche à pied;249740085;CA du Sud;LA REUNION;LA REUNION
+97407;Le Port;970;Autre commune du département de résidence;Femmes;Voiture, camion, fourgonnette;249740101;CA Territoire de la Côte Ouest (Tco);LA REUNION;LA REUNION
+97420;Sainte-Suzanne;99;Autre commune du département de résidence;Hommes;Deux roues;249740119;CA Intercommunale du Nord de la Réunion (Cinor);LA REUNION;LA REUNION
+97406;La Plaine-des-Palmistes;45;Commune de résidence;Hommes;Pas de transport;249740093;CA Intercommunale de la Réunion Est (Cirest);LA REUNION;LA REUNION
+97420;Sainte-Suzanne;3;Autre (Dom, Com, étranger);Femmes;Voiture, camion, fourgonnette;249740119;CA Intercommunale du Nord de la Réunion (Cinor);LA REUNION;LA REUNION
+97409;Saint-André;625;Commune de résidence;Femmes;Marche à pied;249740093;CA Intercommunale de la Réunion Est (Cirest);LA REUNION;LA REUNION
+97413;Saint-Leu;7;Autre commune du département de résidence;Hommes;Marche à pied;249740101;CA Territoire de la Côte Ouest (Tco);LA REUNION;LA REUNION
+97413;Saint-Leu;161;Commune de résidence;Hommes;Pas de transport;249740101;CA Territoire de la Côte Ouest (Tco);LA REUNION;LA REUNION
+97417;Saint-Philippe;5;Commune de résidence;Hommes;Transports en commun;249740085;CA du Sud;LA REUNION;LA REUNION
+97418;Sainte-Marie;314;Commune de résidence;Hommes;Marche à pied;249740119;CA Intercommunale du Nord de la Réunion (Cinor);LA REUNION;LA REUNION
+97405;Petite-Île;3;Autre commune du département de résidence;Hommes;Pas de transport;249740077;CA Civis (Communauté Intercommunale des Villes Solidaires);LA REUNION;LA REUNION
+97414;Saint-Louis;135;Autre commune du département de résidence;Hommes;Deux roues;249740077;CA Civis (Communauté Intercommunale des Villes Solidaires);LA REUNION;LA REUNION
+97404;L'Étang-Salé;2;Autre région en France métropolitaine;Hommes;Transports en commun;249740077;CA Civis (Communauté Intercommunale des Villes Solidaires);LA REUNION;LA REUNION
+97407;Le Port;84;Commune de résidence;Hommes;Pas de transport;249740101;CA Territoire de la Côte Ouest (Tco);LA REUNION;LA REUNION
+97407;Le Port;8;Autre région en France métropolitaine;Hommes;Voiture, camion, fourgonnette;249740101;CA Territoire de la Côte Ouest (Tco);LA REUNION;LA REUNION
+97417;Saint-Philippe;15;Commune de résidence;Femmes;Deux roues;249740085;CA du Sud;LA REUNION;LA REUNION
+97418;Sainte-Marie;15;Autre commune du département de résidence;Hommes;Marche à pied;249740119;CA Intercommunale du Nord de la Réunion (Cinor);LA REUNION;LA REUNION
+97416;Saint-Pierre;3;Autre région en France métropolitaine;Hommes;Marche à pied;249740077;CA Civis (Communauté Intercommunale des Villes Solidaires);LA REUNION;LA REUNION
+97405;Petite-Île;48;Commune de résidence;Hommes;Deux roues;249740077;CA Civis (Communauté Intercommunale des Villes Solidaires);LA REUNION;LA REUNION
+97401;Les Avirons;62;Commune de résidence;Hommes;Pas de transport;249740077;CA Civis (Communauté Intercommunale des Villes Solidaires);LA REUNION;LA REUNION
+97423;Les Trois-Bassins;30;Autre commune du département de résidence;Hommes;Deux roues;249740101;CA Territoire de la Côte Ouest (Tco);LA REUNION;LA REUNION
+97423;Les Trois-Bassins;470;Autre commune du département de résidence;Femmes;Voiture, camion, fourgonnette;249740101;CA Territoire de la Côte Ouest (Tco);LA REUNION;LA REUNION
+97401;Les Avirons;33;Commune de résidence;Femmes;Transports en commun;249740077;CA Civis (Communauté Intercommunale des Villes Solidaires);LA REUNION;LA REUNION
+97414;Saint-Louis;3100;Autre commune du département de résidence;Hommes;Voiture, camion, fourgonnette;249740077;CA Civis (Communauté Intercommunale des Villes Solidaires);LA REUNION;LA REUNION
+97404;L'Étang-Salé;18;Autre région en France métropolitaine;Hommes;Voiture, camion, fourgonnette;249740077;CA Civis (Communauté Intercommunale des Villes Solidaires);LA REUNION;LA REUNION
+97412;Saint-Joseph;2398;Commune de résidence;Hommes;Voiture, camion, fourgonnette;249740085;CA du Sud;LA REUNION;LA REUNION
+97416;Saint-Pierre;3;Autre (Dom, Com, étranger);Femmes;Transports en commun;249740077;CA Civis (Communauté Intercommunale des Villes Solidaires);LA REUNION;LA REUNION
+97422;Le Tampon;13;Autre commune du département de résidence;Hommes;Pas de transport;249740085;CA du Sud;LA REUNION;LA REUNION
+97423;Les Trois-Bassins;50;Autre commune du département de résidence;Hommes;Transports en commun;249740101;CA Territoire de la Côte Ouest (Tco);LA REUNION;LA REUNION
+97413;Saint-Leu;5;Autre (Dom, Com, étranger);Hommes;Voiture, camion, fourgonnette;249740101;CA Territoire de la Côte Ouest (Tco);LA REUNION;LA REUNION
+97416;Saint-Pierre;15;Autre commune du département de résidence;Femmes;Pas de transport;249740077;CA Civis (Communauté Intercommunale des Villes Solidaires);LA REUNION;LA REUNION
+97416;Saint-Pierre;132;Autre commune du département de résidence;Femmes;Transports en commun;249740077;CA Civis (Communauté Intercommunale des Villes Solidaires);LA REUNION;LA REUNION
+97407;Le Port;10;Autre commune du département de résidence;Femmes;Marche à pied;249740101;CA Territoire de la Côte Ouest (Tco);LA REUNION;LA REUNION
+97408;La Possession;15;Autre région en France métropolitaine;Femmes;Voiture, camion, fourgonnette;249740101;CA Territoire de la Côte Ouest (Tco);LA REUNION;LA REUNION
+97406;La Plaine-des-Palmistes;65;Commune de résidence;Hommes;Marche à pied;249740093;CA Intercommunale de la Réunion Est (Cirest);LA REUNION;LA REUNION
+97404;L'Étang-Salé;28;Autre commune du département de résidence;Hommes;Transports en commun;249740077;CA Civis (Communauté Intercommunale des Villes Solidaires);LA REUNION;LA REUNION
+97414;Saint-Louis;270;Commune de résidence;Hommes;Deux roues;249740077;CA Civis (Communauté Intercommunale des Villes Solidaires);LA REUNION;LA REUNION
+97406;La Plaine-des-Palmistes;15;Autre commune du département de résidence;Femmes;Transports en commun;249740093;CA Intercommunale de la Réunion Est (Cirest);LA REUNION;LA REUNION
+97402;Bras-Panon;69;Autre commune du département de résidence;Hommes;Transports en commun;249740093;CA Intercommunale de la Réunion Est (Cirest);LA REUNION;LA REUNION
+97404;L'Étang-Salé;70;Autre commune du département de résidence;Hommes;Deux roues;249740077;CA Civis (Communauté Intercommunale des Villes Solidaires);LA REUNION;LA REUNION
+97415;Saint-Paul;10;Autre commune du département de résidence;Hommes;Pas de transport;249740101;CA Territoire de la Côte Ouest (Tco);LA REUNION;LA REUNION
+97403;Entre-Deux;5;Autre commune du département de résidence;Femmes;Pas de transport;249740085;CA du Sud;LA REUNION;LA REUNION
+97421;Salazie;275;Autre commune du département de résidence;Hommes;Voiture, camion, fourgonnette;249740093;CA Intercommunale de la Réunion Est (Cirest);LA REUNION;LA REUNION
+97414;Saint-Louis;2701;Commune de résidence;Femmes;Voiture, camion, fourgonnette;249740077;CA Civis (Communauté Intercommunale des Villes Solidaires);LA REUNION;LA REUNION
+97422;Le Tampon;309;Commune de résidence;Hommes;Deux roues;249740085;CA du Sud;LA REUNION;LA REUNION
+97423;Les Trois-Bassins;20;Commune de résidence;Hommes;Transports en commun;249740101;CA Territoire de la Côte Ouest (Tco);LA REUNION;LA REUNION
+97403;Entre-Deux;115;Commune de résidence;Hommes;Marche à pied;249740085;CA du Sud;LA REUNION;LA REUNION
+97413;Saint-Leu;3;Autre région en France métropolitaine;Hommes;Marche à pied;249740101;CA Territoire de la Côte Ouest (Tco);LA REUNION;LA REUNION
+97424;Cilaos;10;Autre commune du département de résidence;Hommes;Transports en commun;249740077;CA Civis (Communauté Intercommunale des Villes Solidaires);LA REUNION;LA REUNION
+97407;Le Port;1145;Autre commune du département de résidence;Hommes;Voiture, camion, fourgonnette;249740101;CA Territoire de la Côte Ouest (Tco);LA REUNION;LA REUNION
+97417;Saint-Philippe;26;Autre commune du département de résidence;Femmes;Transports en commun;249740085;CA du Sud;LA REUNION;LA REUNION
+97405;Petite-Île;3;Autre région en France métropolitaine;Femmes;Voiture, camion, fourgonnette;249740077;CA Civis (Communauté Intercommunale des Villes Solidaires);LA REUNION;LA REUNION
+97415;Saint-Paul;3;Autre (Dom, Com, étranger);Hommes;Deux roues;249740101;CA Territoire de la Côte Ouest (Tco);LA REUNION;LA REUNION
+97411;Saint-Denis;13;Autre (Dom, Com, étranger);Femmes;Voiture, camion, fourgonnette;249740119;CA Intercommunale du Nord de la Réunion (Cinor);LA REUNION;LA REUNION
+97403;Entre-Deux;5;Autre (Dom, Com, étranger);Femmes;Voiture, camion, fourgonnette;249740085;CA du Sud;LA REUNION;LA REUNION
+97416;Saint-Pierre;407;Commune de résidence;Hommes;Pas de transport;249740077;CA Civis (Communauté Intercommunale des Villes Solidaires);LA REUNION;LA REUNION
+97419;Sainte-Rose;432;Autre commune du département de résidence;Hommes;Voiture, camion, fourgonnette;249740093;CA Intercommunale de la Réunion Est (Cirest);LA REUNION;LA REUNION
+97403;Entre-Deux;71;Commune de résidence;Femmes;Pas de transport;249740085;CA du Sud;LA REUNION;LA REUNION
+97408;La Possession;168;Commune de résidence;Hommes;Marche à pied;249740101;CA Territoire de la Côte Ouest (Tco);LA REUNION;LA REUNION
+97415;Saint-Paul;133;Commune de résidence;Femmes;Deux roues;249740101;CA Territoire de la Côte Ouest (Tco);LA REUNION;LA REUNION
+97422;Le Tampon;28;Autre commune du département de résidence;Femmes;Pas de transport;249740085;CA du Sud;LA REUNION;LA REUNION
+97422;Le Tampon;8;Autre (Dom, Com, étranger);Femmes;Voiture, camion, fourgonnette;249740085;CA du Sud;LA REUNION;LA REUNION
+97423;Les Trois-Bassins;35;Commune de résidence;Femmes;Pas de transport;249740101;CA Territoire de la Côte Ouest (Tco);LA REUNION;LA REUNION
+97404;L'Étang-Salé;114;Commune de résidence;Hommes;Deux roues;249740077;CA Civis (Communauté Intercommunale des Villes Solidaires);LA REUNION;LA REUNION
+97410;Saint-Benoît;3;Autre (Dom, Com, étranger);Hommes;Transports en commun;249740093;CA Intercommunale de la Réunion Est (Cirest);LA REUNION;LA REUNION
+97401;Les Avirons;18;Commune de résidence;Hommes;Transports en commun;249740077;CA Civis (Communauté Intercommunale des Villes Solidaires);LA REUNION;LA REUNION
+97415;Saint-Paul;4742;Autre commune du département de résidence;Femmes;Voiture, camion, fourgonnette;249740101;CA Territoire de la Côte Ouest (Tco);LA REUNION;LA REUNION
+97407;Le Port;1375;Commune de résidence;Femmes;Voiture, camion, fourgonnette;249740101;CA Territoire de la Côte Ouest (Tco);LA REUNION;LA REUNION
+97408;La Possession;32;Autre commune du département de résidence;Femmes;Marche à pied;249740101;CA Territoire de la Côte Ouest (Tco);LA REUNION;LA REUNION
+97411;Saint-Denis;515;Commune de résidence;Hommes;Pas de transport;249740119;CA Intercommunale du Nord de la Réunion (Cinor);LA REUNION;LA REUNION
+97418;Sainte-Marie;258;Commune de résidence;Femmes;Marche à pied;249740119;CA Intercommunale du Nord de la Réunion (Cinor);LA REUNION;LA REUNION
+97412;Saint-Joseph;5;Autre (Dom, Com, étranger);Femmes;Voiture, camion, fourgonnette;249740085;CA du Sud;LA REUNION;LA REUNION
+97417;Saint-Philippe;5;Autre commune du département de résidence;Hommes;Deux roues;249740085;CA du Sud;LA REUNION;LA REUNION
+97401;Les Avirons;8;Autre commune du département de résidence;Femmes;Deux roues;249740077;CA Civis (Communauté Intercommunale des Villes Solidaires);LA REUNION;LA REUNION
+97405;Petite-Île;27;Autre commune du département de résidence;Femmes;Transports en commun;249740077;CA Civis (Communauté Intercommunale des Villes Solidaires);LA REUNION;LA REUNION
+97414;Saint-Louis;13;Autre commune du département de résidence;Hommes;Marche à pied;249740077;CA Civis (Communauté Intercommunale des Villes Solidaires);LA REUNION;LA REUNION
+97409;Saint-André;120;Commune de résidence;Hommes;Transports en commun;249740093;CA Intercommunale de la Réunion Est (Cirest);LA REUNION;LA REUNION
+97419;Sainte-Rose;5;Autre région en France métropolitaine;Hommes;Voiture, camion, fourgonnette;249740093;CA Intercommunale de la Réunion Est (Cirest);LA REUNION;LA REUNION
+97415;Saint-Paul;8149;Commune de résidence;Femmes;Voiture, camion, fourgonnette;249740101;CA Territoire de la Côte Ouest (Tco);LA REUNION;LA REUNION
+97412;Saint-Joseph;75;Commune de résidence;Hommes;Transports en commun;249740085;CA du Sud;LA REUNION;LA REUNION
+97402;Bras-Panon;35;Commune de résidence;Femmes;Transports en commun;249740093;CA Intercommunale de la Réunion Est (Cirest);LA REUNION;LA REUNION
+97409;Saint-André;20;Autre commune du département de résidence;Femmes;Marche à pied;249740093;CA Intercommunale de la Réunion Est (Cirest);LA REUNION;LA REUNION
+97415;Saint-Paul;180;Autre commune du département de résidence;Hommes;Transports en commun;249740101;CA Territoire de la Côte Ouest (Tco);LA REUNION;LA REUNION
+97410;Saint-Benoît;193;Commune de résidence;Femmes;Pas de transport;249740093;CA Intercommunale de la Réunion Est (Cirest);LA REUNION;LA REUNION
+97421;Salazie;5;Autre commune du département de résidence;Hommes;Pas de transport;249740093;CA Intercommunale de la Réunion Est (Cirest);LA REUNION;LA REUNION
+97410;Saint-Benoît;2122;Commune de résidence;Femmes;Voiture, camion, fourgonnette;249740093;CA Intercommunale de la Réunion Est (Cirest);LA REUNION;LA REUNION
+97407;Le Port;201;Autre commune du département de résidence;Femmes;Transports en commun;249740101;CA Territoire de la Côte Ouest (Tco);LA REUNION;LA REUNION
+97416;Saint-Pierre;592;Commune de résidence;Femmes;Transports en commun;249740077;CA Civis (Communauté Intercommunale des Villes Solidaires);LA REUNION;LA REUNION
+97424;Cilaos;30;Commune de résidence;Hommes;Deux roues;249740077;CA Civis (Communauté Intercommunale des Villes Solidaires);LA REUNION;LA REUNION
+97402;Bras-Panon;5;Autre commune du département de résidence;Femmes;Deux roues;249740093;CA Intercommunale de la Réunion Est (Cirest);LA REUNION;LA REUNION
+97403;Entre-Deux;320;Commune de résidence;Femmes;Voiture, camion, fourgonnette;249740085;CA du Sud;LA REUNION;LA REUNION
+97414;Saint-Louis;3144;Commune de résidence;Hommes;Voiture, camion, fourgonnette;249740077;CA Civis (Communauté Intercommunale des Villes Solidaires);LA REUNION;LA REUNION
+97415;Saint-Paul;70;Autre région en France métropolitaine;Hommes;Voiture, camion, fourgonnette;249740101;CA Territoire de la Côte Ouest (Tco);LA REUNION;LA REUNION
+97415;Saint-Paul;5;Autre région en France métropolitaine;Femmes;Marche à pied;249740101;CA Territoire de la Côte Ouest (Tco);LA REUNION;LA REUNION
+97402;Bras-Panon;3;Autre région en France métropolitaine;Hommes;Marche à pied;249740093;CA Intercommunale de la Réunion Est (Cirest);LA REUNION;LA REUNION
+97406;La Plaine-des-Palmistes;315;Commune de résidence;Femmes;Voiture, camion, fourgonnette;249740093;CA Intercommunale de la Réunion Est (Cirest);LA REUNION;LA REUNION
+97403;Entre-Deux;15;Autre commune du département de résidence;Femmes;Deux roues;249740085;CA du Sud;LA REUNION;LA REUNION
+97405;Petite-Île;87;Commune de résidence;Femmes;Pas de transport;249740077;CA Civis (Communauté Intercommunale des Villes Solidaires);LA REUNION;LA REUNION
+97410;Saint-Benoît;8;Autre région en France métropolitaine;Hommes;Voiture, camion, fourgonnette;249740093;CA Intercommunale de la Réunion Est (Cirest);LA REUNION;LA REUNION
+97415;Saint-Paul;7988;Commune de résidence;Hommes;Voiture, camion, fourgonnette;249740101;CA Territoire de la Côte Ouest (Tco);LA REUNION;LA REUNION
+97405;Petite-Île;3;Autre région en France métropolitaine;Hommes;Pas de transport;249740077;CA Civis (Communauté Intercommunale des Villes Solidaires);LA REUNION;LA REUNION
+97421;Salazie;42;Commune de résidence;Femmes;Transports en commun;249740093;CA Intercommunale de la Réunion Est (Cirest);LA REUNION;LA REUNION
+97404;L'Étang-Salé;2;Autre commune du département de résidence;Hommes;Marche à pied;249740077;CA Civis (Communauté Intercommunale des Villes Solidaires);LA REUNION;LA REUNION
+97416;Saint-Pierre;146;Autre commune du département de résidence;Hommes;Transports en commun;249740077;CA Civis (Communauté Intercommunale des Villes Solidaires);LA REUNION;LA REUNION
+97414;Saint-Louis;80;Commune de résidence;Hommes;Transports en commun;249740077;CA Civis (Communauté Intercommunale des Villes Solidaires);LA REUNION;LA REUNION
+97402;Bras-Panon;5;Autre commune du département de résidence;Hommes;Pas de transport;249740093;CA Intercommunale de la Réunion Est (Cirest);LA REUNION;LA REUNION
+97403;Entre-Deux;705;Autre commune du département de résidence;Hommes;Voiture, camion, fourgonnette;249740085;CA du Sud;LA REUNION;LA REUNION
+97409;Saint-André;158;Commune de résidence;Hommes;Pas de transport;249740093;CA Intercommunale de la Réunion Est (Cirest);LA REUNION;LA REUNION
+97424;Cilaos;356;Commune de résidence;Hommes;Voiture, camion, fourgonnette;249740077;CA Civis (Communauté Intercommunale des Villes Solidaires);LA REUNION;LA REUNION
+97401;Les Avirons;29;Autre commune du département de résidence;Hommes;Transports en commun;249740077;CA Civis (Communauté Intercommunale des Villes Solidaires);LA REUNION;LA REUNION
+97409;Saint-André;10;Autre commune du département de résidence;Hommes;Marche à pied;249740093;CA Intercommunale de la Réunion Est (Cirest);LA REUNION;LA REUNION
+97413;Saint-Leu;1679;Commune de résidence;Femmes;Voiture, camion, fourgonnette;249740101;CA Territoire de la Côte Ouest (Tco);LA REUNION;LA REUNION
+97422;Le Tampon;577;Commune de résidence;Hommes;Marche à pied;249740085;CA du Sud;LA REUNION;LA REUNION
+97424;Cilaos;10;Autre commune du département de résidence;Femmes;Transports en commun;249740077;CA Civis (Communauté Intercommunale des Villes Solidaires);LA REUNION;LA REUNION
+97403;Entre-Deux;5;Commune de résidence;Femmes;Transports en commun;249740085;CA du Sud;LA REUNION;LA REUNION
+97418;Sainte-Marie;126;Commune de résidence;Hommes;Transports en commun;249740119;CA Intercommunale du Nord de la Réunion (Cinor);LA REUNION;LA REUNION
+97415;Saint-Paul;6434;Autre commune du département de résidence;Hommes;Voiture, camion, fourgonnette;249740101;CA Territoire de la Côte Ouest (Tco);LA REUNION;LA REUNION
+97401;Les Avirons;8;Autre région en France métropolitaine;Hommes;Voiture, camion, fourgonnette;249740077;CA Civis (Communauté Intercommunale des Villes Solidaires);LA REUNION;LA REUNION
+97413;Saint-Leu;2;Autre région en France métropolitaine;Hommes;Pas de transport;249740101;CA Territoire de la Côte Ouest (Tco);LA REUNION;LA REUNION
+97408;La Possession;43;Autre commune du département de résidence;Femmes;Deux roues;249740101;CA Territoire de la Côte Ouest (Tco);LA REUNION;LA REUNION
+97424;Cilaos;277;Commune de résidence;Femmes;Voiture, camion, fourgonnette;249740077;CA Civis (Communauté Intercommunale des Villes Solidaires);LA REUNION;LA REUNION
+97406;La Plaine-des-Palmistes;10;Commune de résidence;Hommes;Transports en commun;249740093;CA Intercommunale de la Réunion Est (Cirest);LA REUNION;LA REUNION
+97418;Sainte-Marie;5;Autre région en France métropolitaine;Hommes;Transports en commun;249740119;CA Intercommunale du Nord de la Réunion (Cinor);LA REUNION;LA REUNION
+97407;Le Port;37;Commune de résidence;Femmes;Deux roues;249740101;CA Territoire de la Côte Ouest (Tco);LA REUNION;LA REUNION
+97402;Bras-Panon;5;Autre commune du département de résidence;Femmes;Marche à pied;249740093;CA Intercommunale de la Réunion Est (Cirest);LA REUNION;LA REUNION
+97410;Saint-Benoît;2279;Commune de résidence;Hommes;Voiture, camion, fourgonnette;249740093;CA Intercommunale de la Réunion Est (Cirest);LA REUNION;LA REUNION
+97417;Saint-Philippe;51;Commune de résidence;Hommes;Deux roues;249740085;CA du Sud;LA REUNION;LA REUNION
+97419;Sainte-Rose;5;Autre commune du département de résidence;Femmes;Deux roues;249740093;CA Intercommunale de la Réunion Est (Cirest);LA REUNION;LA REUNION
+97408;La Possession;2;Autre (Dom, Com, étranger);Femmes;Transports en commun;249740101;CA Territoire de la Côte Ouest (Tco);LA REUNION;LA REUNION
+97424;Cilaos;25;Commune de résidence;Hommes;Transports en commun;249740077;CA Civis (Communauté Intercommunale des Villes Solidaires);LA REUNION;LA REUNION
+97422;Le Tampon;20;Autre commune du département de résidence;Hommes;Marche à pied;249740085;CA du Sud;LA REUNION;LA REUNION
+97422;Le Tampon;35;Commune de résidence;Femmes;Deux roues;249740085;CA du Sud;LA REUNION;LA REUNION
+97415;Saint-Paul;903;Commune de résidence;Femmes;Transports en commun;249740101;CA Territoire de la Côte Ouest (Tco);LA REUNION;LA REUNION
+97412;Saint-Joseph;2174;Commune de résidence;Femmes;Voiture, camion, fourgonnette;249740085;CA du Sud;LA REUNION;LA REUNION
+97416;Saint-Pierre;7000;Commune de résidence;Femmes;Voiture, camion, fourgonnette;249740077;CA Civis (Communauté Intercommunale des Villes Solidaires);LA REUNION;LA REUNION
+97416;Saint-Pierre;2;Autre région en France métropolitaine;Hommes;Transports en commun;249740077;CA Civis (Communauté Intercommunale des Villes Solidaires);LA REUNION;LA REUNION
+97414;Saint-Louis;7;Autre commune du département de résidence;Hommes;Pas de transport;249740077;CA Civis (Communauté Intercommunale des Villes Solidaires);LA REUNION;LA REUNION
+97415;Saint-Paul;5;Autre région en France métropolitaine;Hommes;Marche à pied;249740101;CA Territoire de la Côte Ouest (Tco);LA REUNION;LA REUNION
+97423;Les Trois-Bassins;10;Commune de résidence;Femmes;Transports en commun;249740101;CA Territoire de la Côte Ouest (Tco);LA REUNION;LA REUNION
+97417;Saint-Philippe;20;Commune de résidence;Femmes;Pas de transport;249740085;CA du Sud;LA REUNION;LA REUNION
+97416;Saint-Pierre;180;Autre commune du département de résidence;Hommes;Deux roues;249740077;CA Civis (Communauté Intercommunale des Villes Solidaires);LA REUNION;LA REUNION
+97411;Saint-Denis;343;Autre commune du département de résidence;Femmes;Transports en commun;249740119;CA Intercommunale du Nord de la Réunion (Cinor);LA REUNION;LA REUNION
+97408;La Possession;145;Commune de résidence;Femmes;Pas de transport;249740101;CA Territoire de la Côte Ouest (Tco);LA REUNION;LA REUNION
+97407;Le Port;8;Autre commune du département de résidence;Femmes;Pas de transport;249740101;CA Territoire de la Côte Ouest (Tco);LA REUNION;LA REUNION
+97419;Sainte-Rose;279;Commune de résidence;Femmes;Voiture, camion, fourgonnette;249740093;CA Intercommunale de la Réunion Est (Cirest);LA REUNION;LA REUNION
+97409;Saint-André;221;Commune de résidence;Hommes;Deux roues;249740093;CA Intercommunale de la Réunion Est (Cirest);LA REUNION;LA REUNION
+97413;Saint-Leu;2;Autre (Dom, Com, étranger);Hommes;Deux roues;249740101;CA Territoire de la Côte Ouest (Tco);LA REUNION;LA REUNION
+97414;Saint-Louis;15;Commune de résidence;Femmes;Deux roues;249740077;CA Civis (Communauté Intercommunale des Villes Solidaires);LA REUNION;LA REUNION
+97416;Saint-Pierre;2;Autre région en France métropolitaine;Femmes;Marche à pied;249740077;CA Civis (Communauté Intercommunale des Villes Solidaires);LA REUNION;LA REUNION
+97407;Le Port;127;Autre commune du département de résidence;Hommes;Transports en commun;249740101;CA Territoire de la Côte Ouest (Tco);LA REUNION;LA REUNION
+97420;Sainte-Suzanne;2088;Autre commune du département de résidence;Femmes;Voiture, camion, fourgonnette;249740119;CA Intercommunale du Nord de la Réunion (Cinor);LA REUNION;LA REUNION
+97422;Le Tampon;5200;Commune de résidence;Hommes;Voiture, camion, fourgonnette;249740085;CA du Sud;LA REUNION;LA REUNION
+97408;La Possession;2;Autre région en France métropolitaine;Hommes;Pas de transport;249740101;CA Territoire de la Côte Ouest (Tco);LA REUNION;LA REUNION
+97410;Saint-Benoît;183;Commune de résidence;Hommes;Pas de transport;249740093;CA Intercommunale de la Réunion Est (Cirest);LA REUNION;LA REUNION
+97404;L'Étang-Salé;1349;Autre commune du département de résidence;Hommes;Voiture, camion, fourgonnette;249740077;CA Civis (Communauté Intercommunale des Villes Solidaires);LA REUNION;LA REUNION
+97404;L'Étang-Salé;33;Autre commune du département de résidence;Femmes;Transports en commun;249740077;CA Civis (Communauté Intercommunale des Villes Solidaires);LA REUNION;LA REUNION
+97420;Sainte-Suzanne;10;Autre commune du département de résidence;Hommes;Marche à pied;249740119;CA Intercommunale du Nord de la Réunion (Cinor);LA REUNION;LA REUNION
+97412;Saint-Joseph;218;Commune de résidence;Femmes;Pas de transport;249740085;CA du Sud;LA REUNION;LA REUNION
+97412;Saint-Joseph;3;Autre région en France métropolitaine;Femmes;Transports en commun;249740085;CA du Sud;LA REUNION;LA REUNION
+97413;Saint-Leu;2;Autre région en France métropolitaine;Femmes;Pas de transport;249740101;CA Territoire de la Côte Ouest (Tco);LA REUNION;LA REUNION
+97413;Saint-Leu;2459;Autre commune du département de résidence;Hommes;Voiture, camion, fourgonnette;249740101;CA Territoire de la Côte Ouest (Tco);LA REUNION;LA REUNION
+97409;Saint-André;493;Commune de résidence;Hommes;Marche à pied;249740093;CA Intercommunale de la Réunion Est (Cirest);LA REUNION;LA REUNION
+97409;Saint-André;2641;Commune de résidence;Femmes;Voiture, camion, fourgonnette;249740093;CA Intercommunale de la Réunion Est (Cirest);LA REUNION;LA REUNION
+97418;Sainte-Marie;5;Autre commune du département de résidence;Femmes;Pas de transport;249740119;CA Intercommunale du Nord de la Réunion (Cinor);LA REUNION;LA REUNION
+97416;Saint-Pierre;553;Commune de résidence;Femmes;Pas de transport;249740077;CA Civis (Communauté Intercommunale des Villes Solidaires);LA REUNION;LA REUNION
+97402;Bras-Panon;197;Commune de résidence;Femmes;Marche à pied;249740093;CA Intercommunale de la Réunion Est (Cirest);LA REUNION;LA REUNION
+97420;Sainte-Suzanne;56;Commune de résidence;Hommes;Deux roues;249740119;CA Intercommunale du Nord de la Réunion (Cinor);LA REUNION;LA REUNION
+97405;Petite-Île;7;Autre commune du département de résidence;Femmes;Deux roues;249740077;CA Civis (Communauté Intercommunale des Villes Solidaires);LA REUNION;LA REUNION
+97410;Saint-Benoît;3;Autre commune du département de résidence;Hommes;Pas de transport;249740093;CA Intercommunale de la Réunion Est (Cirest);LA REUNION;LA REUNION
+97413;Saint-Leu;3;Autre (Dom, Com, étranger);Femmes;Voiture, camion, fourgonnette;249740101;CA Territoire de la Côte Ouest (Tco);LA REUNION;LA REUNION
+97406;La Plaine-des-Palmistes;75;Commune de résidence;Femmes;Marche à pied;249740093;CA Intercommunale de la Réunion Est (Cirest);LA REUNION;LA REUNION
+97412;Saint-Joseph;513;Commune de résidence;Femmes;Marche à pied;249740085;CA du Sud;LA REUNION;LA REUNION
+97411;Saint-Denis;347;Autre commune du département de résidence;Hommes;Transports en commun;249740119;CA Intercommunale du Nord de la Réunion (Cinor);LA REUNION;LA REUNION
+97401;Les Avirons;141;Commune de résidence;Femmes;Marche à pied;249740077;CA Civis (Communauté Intercommunale des Villes Solidaires);LA REUNION;LA REUNION
+97411;Saint-Denis;10;Autre (Dom, Com, étranger);Hommes;Transports en commun;249740119;CA Intercommunale du Nord de la Réunion (Cinor);LA REUNION;LA REUNION
+97412;Saint-Joseph;120;Commune de résidence;Hommes;Pas de transport;249740085;CA du Sud;LA REUNION;LA REUNION
+97419;Sainte-Rose;5;Autre (Dom, Com, étranger);Hommes;Marche à pied;249740093;CA Intercommunale de la Réunion Est (Cirest);LA REUNION;LA REUNION
+97423;Les Trois-Bassins;5;Autre région en France métropolitaine;Hommes;Transports en commun;249740101;CA Territoire de la Côte Ouest (Tco);LA REUNION;LA REUNION
+97416;Saint-Pierre;25;Autre commune du département de résidence;Hommes;Marche à pied;249740077;CA Civis (Communauté Intercommunale des Villes Solidaires);LA REUNION;LA REUNION
+97418;Sainte-Marie;18;Autre commune du département de résidence;Femmes;Marche à pied;249740119;CA Intercommunale du Nord de la Réunion (Cinor);LA REUNION;LA REUNION
+97423;Les Trois-Bassins;264;Commune de résidence;Hommes;Voiture, camion, fourgonnette;249740101;CA Territoire de la Côte Ouest (Tco);LA REUNION;LA REUNION
+97411;Saint-Denis;2649;Commune de résidence;Femmes;Marche à pied;249740119;CA Intercommunale du Nord de la Réunion (Cinor);LA REUNION;LA REUNION
+97411;Saint-Denis;5;Autre région en France métropolitaine;Hommes;Pas de transport;249740119;CA Intercommunale du Nord de la Réunion (Cinor);LA REUNION;LA REUNION
+97407;Le Port;151;Commune de résidence;Femmes;Pas de transport;249740101;CA Territoire de la Côte Ouest (Tco);LA REUNION;LA REUNION
+97401;Les Avirons;5;Autre région en France métropolitaine;Femmes;Transports en commun;249740077;CA Civis (Communauté Intercommunale des Villes Solidaires);LA REUNION;LA REUNION
+97410;Saint-Benoît;2;Autre (Dom, Com, étranger);Femmes;Voiture, camion, fourgonnette;249740093;CA Intercommunale de la Réunion Est (Cirest);LA REUNION;LA REUNION
+97417;Saint-Philippe;93;Commune de résidence;Femmes;Marche à pied;249740085;CA du Sud;LA REUNION;LA REUNION
+97413;Saint-Leu;5;Autre commune du département de résidence;Femmes;Pas de transport;249740101;CA Territoire de la Côte Ouest (Tco);LA REUNION;LA REUNION
+97418;Sainte-Marie;13;Commune de résidence;Femmes;Deux roues;249740119;CA Intercommunale du Nord de la Réunion (Cinor);LA REUNION;LA REUNION
+97409;Saint-André;5;Autre (Dom, Com, étranger);Hommes;Voiture, camion, fourgonnette;249740093;CA Intercommunale de la Réunion Est (Cirest);LA REUNION;LA REUNION
+97401;Les Avirons;662;Commune de résidence;Hommes;Voiture, camion, fourgonnette;249740077;CA Civis (Communauté Intercommunale des Villes Solidaires);LA REUNION;LA REUNION
+97420;Sainte-Suzanne;8;Autre région en France métropolitaine;Hommes;Voiture, camion, fourgonnette;249740119;CA Intercommunale du Nord de la Réunion (Cinor);LA REUNION;LA REUNION
+97406;La Plaine-des-Palmistes;5;Autre commune du département de résidence;Hommes;Deux roues;249740093;CA Intercommunale de la Réunion Est (Cirest);LA REUNION;LA REUNION
+97422;Le Tampon;13;Autre (Dom, Com, étranger);Hommes;Voiture, camion, fourgonnette;249740085;CA du Sud;LA REUNION;LA REUNION
+97405;Petite-Île;8;Autre commune du département de résidence;Hommes;Marche à pied;249740077;CA Civis (Communauté Intercommunale des Villes Solidaires);LA REUNION;LA REUNION
+97408;La Possession;5;Autre région en France métropolitaine;Femmes;Pas de transport;249740101;CA Territoire de la Côte Ouest (Tco);LA REUNION;LA REUNION
+97412;Saint-Joseph;5;Commune de résidence;Femmes;Deux roues;249740085;CA du Sud;LA REUNION;LA REUNION
+97420;Sainte-Suzanne;3;Autre (Dom, Com, étranger);Hommes;Voiture, camion, fourgonnette;249740119;CA Intercommunale du Nord de la Réunion (Cinor);LA REUNION;LA REUNION
+97406;La Plaine-des-Palmistes;10;Autre commune du département de résidence;Femmes;Marche à pied;249740093;CA Intercommunale de la Réunion Est (Cirest);LA REUNION;LA REUNION
+97414;Saint-Louis;3;Autre (Dom, Com, étranger);Hommes;Voiture, camion, fourgonnette;249740077;CA Civis (Communauté Intercommunale des Villes Solidaires);LA REUNION;LA REUNION
+97413;Saint-Leu;118;Autre commune du département de résidence;Femmes;Transports en commun;249740101;CA Territoire de la Côte Ouest (Tco);LA REUNION;LA REUNION
+97413;Saint-Leu;100;Autre commune du département de résidence;Hommes;Deux roues;249740101;CA Territoire de la Côte Ouest (Tco);LA REUNION;LA REUNION
+97416;Saint-Pierre;58;Autre région en France métropolitaine;Hommes;Voiture, camion, fourgonnette;249740077;CA Civis (Communauté Intercommunale des Villes Solidaires);LA REUNION;LA REUNION
+97422;Le Tampon;4963;Autre commune du département de résidence;Hommes;Voiture, camion, fourgonnette;249740085;CA du Sud;LA REUNION;LA REUNION
+97420;Sainte-Suzanne;2;Autre commune du département de résidence;Femmes;Pas de transport;249740119;CA Intercommunale du Nord de la Réunion (Cinor);LA REUNION;LA REUNION
+97422;Le Tampon;158;Autre commune du département de résidence;Femmes;Transports en commun;249740085;CA du Sud;LA REUNION;LA REUNION
+97415;Saint-Paul;2;Autre (Dom, Com, étranger);Femmes;Pas de transport;249740101;CA Territoire de la Côte Ouest (Tco);LA REUNION;LA REUNION
+97403;Entre-Deux;21;Autre commune du département de résidence;Hommes;Deux roues;249740085;CA du Sud;LA REUNION;LA REUNION
+97409;Saint-André;8;Autre région en France métropolitaine;Hommes;Transports en commun;249740093;CA Intercommunale de la Réunion Est (Cirest);LA REUNION;LA REUNION
+97416;Saint-Pierre;3197;Autre commune du département de résidence;Hommes;Voiture, camion, fourgonnette;249740077;CA Civis (Communauté Intercommunale des Villes Solidaires);LA REUNION;LA REUNION
+97401;Les Avirons;3;Autre (Dom, Com, étranger);Femmes;Voiture, camion, fourgonnette;249740077;CA Civis (Communauté Intercommunale des Villes Solidaires);LA REUNION;LA REUNION
+97408;La Possession;118;Commune de résidence;Hommes;Pas de transport;249740101;CA Territoire de la Côte Ouest (Tco);LA REUNION;LA REUNION
+97415;Saint-Paul;25;Autre commune du département de résidence;Hommes;Marche à pied;249740101;CA Territoire de la Côte Ouest (Tco);LA REUNION;LA REUNION
+97401;Les Avirons;3;Autre commune du département de résidence;Hommes;Pas de transport;249740077;CA Civis (Communauté Intercommunale des Villes Solidaires);LA REUNION;LA REUNION
+97422;Le Tampon;340;Commune de résidence;Hommes;Pas de transport;249740085;CA du Sud;LA REUNION;LA REUNION
+97412;Saint-Joseph;15;Autre commune du département de résidence;Hommes;Marche à pied;249740085;CA du Sud;LA REUNION;LA REUNION
+97419;Sainte-Rose;10;Autre commune du département de résidence;Hommes;Deux roues;249740093;CA Intercommunale de la Réunion Est (Cirest);LA REUNION;LA REUNION
+97403;Entre-Deux;448;Autre commune du département de résidence;Femmes;Voiture, camion, fourgonnette;249740085;CA du Sud;LA REUNION;LA REUNION
+97415;Saint-Paul;32;Autre région en France métropolitaine;Femmes;Voiture, camion, fourgonnette;249740101;CA Territoire de la Côte Ouest (Tco);LA REUNION;LA REUNION
+97410;Saint-Benoît;2026;Autre commune du département de résidence;Hommes;Voiture, camion, fourgonnette;249740093;CA Intercommunale de la Réunion Est (Cirest);LA REUNION;LA REUNION
+97407;Le Port;5;Autre commune du département de résidence;Femmes;Deux roues;249740101;CA Territoire de la Côte Ouest (Tco);LA REUNION;LA REUNION
+97413;Saint-Leu;2164;Autre commune du département de résidence;Femmes;Voiture, camion, fourgonnette;249740101;CA Territoire de la Côte Ouest (Tco);LA REUNION;LA REUNION
+97424;Cilaos;153;Commune de résidence;Hommes;Marche à pied;249740077;CA Civis (Communauté Intercommunale des Villes Solidaires);LA REUNION;LA REUNION
+97418;Sainte-Marie;3;Autre commune du département de résidence;Hommes;Pas de transport;249740119;CA Intercommunale du Nord de la Réunion (Cinor);LA REUNION;LA REUNION
+97413;Saint-Leu;113;Commune de résidence;Hommes;Transports en commun;249740101;CA Territoire de la Côte Ouest (Tco);LA REUNION;LA REUNION
+97414;Saint-Louis;715;Commune de résidence;Femmes;Marche à pied;249740077;CA Civis (Communauté Intercommunale des Villes Solidaires);LA REUNION;LA REUNION
+97420;Sainte-Suzanne;2;Autre région en France métropolitaine;Hommes;Marche à pied;249740119;CA Intercommunale du Nord de la Réunion (Cinor);LA REUNION;LA REUNION
+97411;Saint-Denis;8;Autre (Dom, Com, étranger);Hommes;Pas de transport;249740119;CA Intercommunale du Nord de la Réunion (Cinor);LA REUNION;LA REUNION
+97411;Saint-Denis;10;Autre région en France métropolitaine;Femmes;Marche à pied;249740119;CA Intercommunale du Nord de la Réunion (Cinor);LA REUNION;LA REUNION
+97413;Saint-Leu;15;Autre commune du département de résidence;Femmes;Marche à pied;249740101;CA Territoire de la Côte Ouest (Tco);LA REUNION;LA REUNION
+97420;Sainte-Suzanne;123;Commune de résidence;Femmes;Transports en commun;249740119;CA Intercommunale du Nord de la Réunion (Cinor);LA REUNION;LA REUNION
+97401;Les Avirons;52;Autre commune du département de résidence;Femmes;Transports en commun;249740077;CA Civis (Communauté Intercommunale des Villes Solidaires);LA REUNION;LA REUNION
+97417;Saint-Philippe;271;Commune de résidence;Hommes;Voiture, camion, fourgonnette;249740085;CA du Sud;LA REUNION;LA REUNION
+97419;Sainte-Rose;71;Commune de résidence;Hommes;Marche à pied;249740093;CA Intercommunale de la Réunion Est (Cirest);LA REUNION;LA REUNION
+97422;Le Tampon;15;Autre commune du département de résidence;Femmes;Marche à pied;249740085;CA du Sud;LA REUNION;LA REUNION
+97403;Entre-Deux;5;Autre commune du département de résidence;Hommes;Marche à pied;249740085;CA du Sud;LA REUNION;LA REUNION
+97414;Saint-Louis;12;Autre commune du département de résidence;Femmes;Deux roues;249740077;CA Civis (Communauté Intercommunale des Villes Solidaires);LA REUNION;LA REUNION
+97411;Saint-Denis;3;Autre région en France métropolitaine;Femmes;Pas de transport;249740119;CA Intercommunale du Nord de la Réunion (Cinor);LA REUNION;LA REUNION
+97415;Saint-Paul;8;Autre région en France métropolitaine;Hommes;Transports en commun;249740101;CA Territoire de la Côte Ouest (Tco);LA REUNION;LA REUNION
+97402;Bras-Panon;1148;Autre commune du département de résidence;Femmes;Voiture, camion, fourgonnette;249740093;CA Intercommunale de la Réunion Est (Cirest);LA REUNION;LA REUNION
+97402;Bras-Panon;15;Commune de résidence;Hommes;Transports en commun;249740093;CA Intercommunale de la Réunion Est (Cirest);LA REUNION;LA REUNION
+97424;Cilaos;59;Commune de résidence;Femmes;Pas de transport;249740077;CA Civis (Communauté Intercommunale des Villes Solidaires);LA REUNION;LA REUNION
+97408;La Possession;5;Commune de résidence;Femmes;Deux roues;249740101;CA Territoire de la Côte Ouest (Tco);LA REUNION;LA REUNION
+97406;La Plaine-des-Palmistes;25;Autre commune du département de résidence;Hommes;Transports en commun;249740093;CA Intercommunale de la Réunion Est (Cirest);LA REUNION;LA REUNION
+97414;Saint-Louis;230;Commune de résidence;Femmes;Transports en commun;249740077;CA Civis (Communauté Intercommunale des Villes Solidaires);LA REUNION;LA REUNION
+97415;Saint-Paul;68;Autre commune du département de résidence;Femmes;Deux roues;249740101;CA Territoire de la Côte Ouest (Tco);LA REUNION;LA REUNION
+97402;Bras-Panon;134;Commune de résidence;Hommes;Marche à pied;249740093;CA Intercommunale de la Réunion Est (Cirest);LA REUNION;LA REUNION
+97411;Saint-Denis;242;Autre commune du département de résidence;Hommes;Deux roues;249740119;CA Intercommunale du Nord de la Réunion (Cinor);LA REUNION;LA REUNION
+97420;Sainte-Suzanne;245;Commune de résidence;Femmes;Marche à pied;249740119;CA Intercommunale du Nord de la Réunion (Cinor);LA REUNION;LA REUNION
+97422;Le Tampon;38;Autre région en France métropolitaine;Femmes;Voiture, camion, fourgonnette;249740085;CA du Sud;LA REUNION;LA REUNION
+97415;Saint-Paul;18;Autre (Dom, Com, étranger);Hommes;Voiture, camion, fourgonnette;249740101;CA Territoire de la Côte Ouest (Tco);LA REUNION;LA REUNION
+97416;Saint-Pierre;102;Commune de résidence;Femmes;Deux roues;249740077;CA Civis (Communauté Intercommunale des Villes Solidaires);LA REUNION;LA REUNION
+97414;Saint-Louis;8;Autre région en France métropolitaine;Femmes;Transports en commun;249740077;CA Civis (Communauté Intercommunale des Villes Solidaires);LA REUNION;LA REUNION
+97421;Salazie;494;Commune de résidence;Hommes;Voiture, camion, fourgonnette;249740093;CA Intercommunale de la Réunion Est (Cirest);LA REUNION;LA REUNION
+97410;Saint-Benoît;18;Autre commune du département de résidence;Hommes;Marche à pied;249740093;CA Intercommunale de la Réunion Est (Cirest);LA REUNION;LA REUNION
+97421;Salazie;10;Autre commune du département de résidence;Hommes;Marche à pied;249740093;CA Intercommunale de la Réunion Est (Cirest);LA REUNION;LA REUNION
+97408;La Possession;3777;Autre commune du département de résidence;Hommes;Voiture, camion, fourgonnette;249740101;CA Territoire de la Côte Ouest (Tco);LA REUNION;LA REUNION
+97418;Sainte-Marie;212;Autre commune du département de résidence;Hommes;Deux roues;249740119;CA Intercommunale du Nord de la Réunion (Cinor);LA REUNION;LA REUNION
+97414;Saint-Louis;2176;Autre commune du département de résidence;Femmes;Voiture, camion, fourgonnette;249740077;CA Civis (Communauté Intercommunale des Villes Solidaires);LA REUNION;LA REUNION
+97410;Saint-Benoît;68;Autre commune du département de résidence;Hommes;Deux roues;249740093;CA Intercommunale de la Réunion Est (Cirest);LA REUNION;LA REUNION
+97411;Saint-Denis;5;Autre région en France métropolitaine;Femmes;Deux roues;249740119;CA Intercommunale du Nord de la Réunion (Cinor);LA REUNION;LA REUNION
+97415;Saint-Paul;2;Autre région en France métropolitaine;Femmes;Pas de transport;249740101;CA Territoire de la Côte Ouest (Tco);LA REUNION;LA REUNION
+97410;Saint-Benoît;103;Autre commune du département de résidence;Hommes;Transports en commun;249740093;CA Intercommunale de la Réunion Est (Cirest);LA REUNION;LA REUNION
+97411;Saint-Denis;3;Autre (Dom, Com, étranger);Femmes;Transports en commun;249740119;CA Intercommunale du Nord de la Réunion (Cinor);LA REUNION;LA REUNION
+97411;Saint-Denis;431;Commune de résidence;Femmes;Pas de transport;249740119;CA Intercommunale du Nord de la Réunion (Cinor);LA REUNION;LA REUNION
+97411;Saint-Denis;23;Autre commune du département de résidence;Hommes;Pas de transport;249740119;CA Intercommunale du Nord de la Réunion (Cinor);LA REUNION;LA REUNION
+97412;Saint-Joseph;100;Autre commune du département de résidence;Hommes;Transports en commun;249740085;CA du Sud;LA REUNION;LA REUNION
+97407;Le Port;121;Autre commune du département de résidence;Hommes;Deux roues;249740101;CA Territoire de la Côte Ouest (Tco);LA REUNION;LA REUNION
+97413;Saint-Leu;5;Autre région en France métropolitaine;Femmes;Transports en commun;249740101;CA Territoire de la Côte Ouest (Tco);LA REUNION;LA REUNION
+97414;Saint-Louis;10;Autre commune du département de résidence;Femmes;Marche à pied;249740077;CA Civis (Communauté Intercommunale des Villes Solidaires);LA REUNION;LA REUNION
+97414;Saint-Louis;15;Autre région en France métropolitaine;Femmes;Voiture, camion, fourgonnette;249740077;CA Civis (Communauté Intercommunale des Villes Solidaires);LA REUNION;LA REUNION
+97418;Sainte-Marie;148;Commune de résidence;Femmes;Pas de transport;249740119;CA Intercommunale du Nord de la Réunion (Cinor);LA REUNION;LA REUNION
+97418;Sainte-Marie;3146;Autre commune du département de résidence;Femmes;Voiture, camion, fourgonnette;249740119;CA Intercommunale du Nord de la Réunion (Cinor);LA REUNION;LA REUNION
+97407;Le Port;562;Commune de résidence;Hommes;Marche à pied;249740101;CA Territoire de la Côte Ouest (Tco);LA REUNION;LA REUNION
+97418;Sainte-Marie;3119;Autre commune du département de résidence;Hommes;Voiture, camion, fourgonnette;249740119;CA Intercommunale du Nord de la Réunion (Cinor);LA REUNION;LA REUNION
+97422;Le Tampon;5;Autre région en France métropolitaine;Hommes;Pas de transport;249740085;CA du Sud;LA REUNION;LA REUNION
+97409;Saint-André;3384;Commune de résidence;Hommes;Voiture, camion, fourgonnette;249740093;CA Intercommunale de la Réunion Est (Cirest);LA REUNION;LA REUNION
+97410;Saint-Benoît;73;Autre commune du département de résidence;Femmes;Transports en commun;249740093;CA Intercommunale de la Réunion Est (Cirest);LA REUNION;LA REUNION
+97411;Saint-Denis;13057;Commune de résidence;Hommes;Voiture, camion, fourgonnette;249740119;CA Intercommunale du Nord de la Réunion (Cinor);LA REUNION;LA REUNION
+97405;Petite-Île;62;Autre commune du département de résidence;Hommes;Deux roues;249740077;CA Civis (Communauté Intercommunale des Villes Solidaires);LA REUNION;LA REUNION
+97422;Le Tampon;4726;Commune de résidence;Femmes;Voiture, camion, fourgonnette;249740085;CA du Sud;LA REUNION;LA REUNION
+97407;Le Port;3;Autre région en France métropolitaine;Femmes;Voiture, camion, fourgonnette;249740101;CA Territoire de la Côte Ouest (Tco);LA REUNION;LA REUNION
+97415;Saint-Paul;32;Autre commune du département de résidence;Femmes;Marche à pied;249740101;CA Territoire de la Côte Ouest (Tco);LA REUNION;LA REUNION
+97411;Saint-Denis;3347;Commune de résidence;Femmes;Transports en commun;249740119;CA Intercommunale du Nord de la Réunion (Cinor);LA REUNION;LA REUNION
+97416;Saint-Pierre;5;Autre (Dom, Com, étranger);Femmes;Voiture, camion, fourgonnette;249740077;CA Civis (Communauté Intercommunale des Villes Solidaires);LA REUNION;LA REUNION
+97419;Sainte-Rose;10;Autre (Dom, Com, étranger);Hommes;Voiture, camion, fourgonnette;249740093;CA Intercommunale de la Réunion Est (Cirest);LA REUNION;LA REUNION
+97402;Bras-Panon;8;Autre commune du département de résidence;Femmes;Pas de transport;249740093;CA Intercommunale de la Réunion Est (Cirest);LA REUNION;LA REUNION
+97412;Saint-Joseph;171;Commune de résidence;Hommes;Deux roues;249740085;CA du Sud;LA REUNION;LA REUNION
+97420;Sainte-Suzanne;3;Autre commune du département de résidence;Femmes;Deux roues;249740119;CA Intercommunale du Nord de la Réunion (Cinor);LA REUNION;LA REUNION
+97423;Les Trois-Bassins;80;Autre commune du département de résidence;Femmes;Transports en commun;249740101;CA Territoire de la Côte Ouest (Tco);LA REUNION;LA REUNION
+97420;Sainte-Suzanne;758;Commune de résidence;Femmes;Voiture, camion, fourgonnette;249740119;CA Intercommunale du Nord de la Réunion (Cinor);LA REUNION;LA REUNION
+97413;Saint-Leu;224;Commune de résidence;Femmes;Transports en commun;249740101;CA Territoire de la Côte Ouest (Tco);LA REUNION;LA REUNION
+97407;Le Port;439;Commune de résidence;Hommes;Deux roues;249740101;CA Territoire de la Côte Ouest (Tco);LA REUNION;LA REUNION
+97412;Saint-Joseph;3;Autre (Dom, Com, étranger);Femmes;Deux roues;249740085;CA du Sud;LA REUNION;LA REUNION
+97416;Saint-Pierre;2617;Autre commune du département de résidence;Femmes;Voiture, camion, fourgonnette;249740077;CA Civis (Communauté Intercommunale des Villes Solidaires);LA REUNION;LA REUNION
+97409;Saint-André;3036;Autre commune du département de résidence;Femmes;Voiture, camion, fourgonnette;249740093;CA Intercommunale de la Réunion Est (Cirest);LA REUNION;LA REUNION
+97422;Le Tampon;213;Autre commune du département de résidence;Hommes;Deux roues;249740085;CA du Sud;LA REUNION;LA REUNION
+97410;Saint-Benoît;3;Autre région en France métropolitaine;Femmes;Transports en commun;249740093;CA Intercommunale de la Réunion Est (Cirest);LA REUNION;LA REUNION
+97414;Saint-Louis;530;Commune de résidence;Hommes;Marche à pied;249740077;CA Civis (Communauté Intercommunale des Villes Solidaires);LA REUNION;LA REUNION
+97417;Saint-Philippe;31;Commune de résidence;Hommes;Pas de transport;249740085;CA du Sud;LA REUNION;LA REUNION
+97408;La Possession;5;Autre région en France métropolitaine;Hommes;Marche à pied;249740101;CA Territoire de la Côte Ouest (Tco);LA REUNION;LA REUNION
+97405;Petite-Île;15;Autre commune du département de résidence;Hommes;Transports en commun;249740077;CA Civis (Communauté Intercommunale des Villes Solidaires);LA REUNION;LA REUNION
