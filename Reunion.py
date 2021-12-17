@@ -32,11 +32,11 @@ import folium
 
 st.set_page_config(layout="wide")
 
-covid= pd.read_csv('donnees-hospitalieres-covid19-lareunion.csv', sep=';')
-tourist= pd.read_csv('frequentation-touristique-mensuelle-irtmta-lareunion.csv', sep=';')
-pop_activ= pd.read_csv('population-active-de-15-ans-ou-plus-ayant-un-emploi-par-sexe-lieu-de-travail-et-.csv', sep=';')
-revenu= pd.read_csv('revenus-declares-pauvrete-et-niveau-de-vie-en-2015-irispublic.csv', sep=';')
-chom= pd.read_csv('nombre-de-demandeurs-demploi-par-departement-france.csv', sep=';')
+covid= pd.read_csv("donnees-hospitalieres-covid19-lareunion.csv", sep=';')
+tourist= pd.read_csv("frequentation-touristique-mensuelle-irtmta-lareunion.csv", sep=';')
+pop_activ= pd.read_csv("population-active-de-15-ans-ou-plus-ayant-un-emploi-par-sexe-lieu-de-travail-et-.csv", sep=';')
+revenu= pd.read_csv("revenus-declares-pauvrete-et-niveau-de-vie-en-2015-irispublic.csv", sep=';')
+chom= pd.read_csv("nombre-de-demandeurs-demploi-par-departement-france.csv", sep=';')
 
 Navigation = st.sidebar.radio("Navigation", ("Home","Economy","Geography","Population","Trivia") )
 
